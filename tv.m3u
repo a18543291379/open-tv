@@ -109,3 +109,1119 @@ https://yylunbo.ottiptv.cc/yy/1382626335
 
 #EXTINF:-1 tvg-name="纪晓岚" group-title="自建的",纪晓岚
 https://yylunbo.ottiptv.cc/yy/1354143978
+
+#EXTINF:-1 tvg-name="KPOP" group-title="自建的",KOPKP
+https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
+
+#EXTINF:-1 tvg-name="爆笑综艺" group-title="自建的",爆笑综艺
+http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_954_720P_t10/c57_fast_954_720P_t10.m3u8?d
+
+#EXTINF:-1 tvg-name="韩国美女" group-title="自建的",韩国美女
+https://txmov2.a.kwimgs.com/upic/2021/04/03/20/BMjAyMTA0MDMyMDU0MzZfMTE1MjQ3MDA5XzQ3MTYzMjMyNzQ3XzJfMw==_b_B51f045ff769a1d0d0c35c1e3bed6e970.mp4
+
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV1" group-title="央视",CCTV1
+http://39.134.115.191:6610/PLTV/88888888/224/3221226523/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2" group-title="央视",CCTV2
+http://39.134.115.191:6610/PLTV/88888888/224/3221226524/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3" group-title="央视",CCTV3
+http://39.134.115.191:6610/PLTV/88888888/224/3221226525/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4" group-title="央视",CCTV4
+http://39.134.115.191:6610/PLTV/88888888/224/3221226526/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" group-title="央视",CCTV5
+http://39.134.115.191:6610/PLTV/88888888/224/3221226527/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5Plus" group-title="央视",CCTV5+
+http://39.134.115.191:6610/PLTV/88888888/224/3221226528/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6" group-title="央视",CCTV6
+http://39.134.115.191:6610/PLTV/88888888/224/3221226529/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7" group-title="央视",CCTV7
+http://39.134.115.191:6610/PLTV/88888888/224/3221226530/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8" group-title="央视",CCTV8
+http://39.134.115.191:6610/PLTV/88888888/224/3221226531/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9" group-title="央视",CCTV9
+http://39.134.115.191:6610/PLTV/88888888/224/3221226532/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10" group-title="央视",CCTV10
+http://39.134.115.191:6610/PLTV/88888888/224/3221226533/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11" group-title="央视",CCTV11
+http://39.134.115.191:6610/PLTV/88888888/224/3221226534/index.m3u8
+#EXTINF:-1 tvg-id="CCTV12" group-title="央视",CCTV12
+http://39.134.115.191:6610/PLTV/88888888/224/3221226535/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13" group-title="央视",CCTV13
+http://39.134.115.191:6610/PLTV/88888888/224/3221226536/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14" group-title="央视",CCTV14
+http://39.134.115.191:6610/PLTV/88888888/224/3221226537/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15" group-title="央视",CCTV15
+http://39.134.115.191:6610/PLTV/88888888/224/3221226538/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16" group-title="央视",CCTV16
+http://39.134.115.191:6610/PLTV/88888888/224/3221226539/index.m3u8
+#EXTINF:-1 tvg-id="CCTV17" group-title="央视",CCTV17
+http://39.134.115.191:6610/PLTV/88888888/224/3221226540/index.m3u8
+#EXTINF:-1 tvg-id="CGTN" group-title="央视",CGTN
+http://39.134.115.191:6610/PLTV/88888888/224/3221226542/index.m3u8
+#EXTINF:-1 tvg-id="BHTV" group-title="卫视",北京卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225619/index.m3u8
+#EXTINF:-1 tvg-id="DMTV" group-title="卫视",上海卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 tvg-id="GUTV" group-title="卫视",广东卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225621/index.m3u8
+#EXTINF:-1 tvg-id="ZJTV" group-title="卫视",浙江卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225622/index.m3u8
+#EXTINF:-1 tvg-id="HUNAN" group-title="卫视",湖南卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225623/index.m3u8
+#EXTINF:-1 tvg-id="JSTV" group-title="卫视",江苏卫视
+http://39.134.115.191:6610/PLTV/88888888/224/322122562 四/index.m3u8
+#EXTINF:-1 tvg-id="DONGFANG" group-title="卫视",东方卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225625/index.m3u8
+#EXTINF:-1 tvg-id="SDTV" group-title="卫视",山东卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225626/index.m3u8
+#EXTINF:-1 tvg-id="AHTV" group-title="卫视",安徽卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225627/index.m3u8
+#EXTINF:-1 tvg-id="HNTV" group-title="卫视",河南卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225628/index.m3u8
+#EXTINF:-1 tvg-id="HBTV" group-title="卫视",湖北卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225629/index.m3u8
+#EXTINF:-1 tvg-id="HEBTV" group-title="卫视",河北卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225630/index.m3u8
+#EXTINF:-1 tvg-id="SXTV" group-title="卫视",山西卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225631/index.m3u8
+#EXTINF:-1 tvg-id="LNTV" group-title="卫视",辽宁卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 tvg-id="JLTV" group-title="卫视",吉林卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225633/index.m3u8
+#EXTINF:-1 tvg-id="HLJTV" group-title="卫视",黑龙江卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-id="JXTV" group-title="卫视",江西卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 tvg-id="FJTV" group-title="卫视",福建卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225636/index.m3u8
+#EXTINF:-1 tvg-id="GXTV" group-title="卫视",广西卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225637/index.m3u8
+#EXTINF:-1 tvg-id="CQT" group-title="卫视",重庆卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-id="SCDTV" group-title="卫视",四川卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225639/index.m3u8
+#EXTINF:-1 tvg-id="GZNCTV" group-title="卫视",贵州卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225640/index.m3u8
+#EXTINF:-1 tvg-id="YNTV" group-title="卫视",云南卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 tvg-id="XZSTV" group-title="卫视",西藏卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225642/index.m3u8
+#EXTINF:-1 tvg-id="GSTV" group-title="卫视",甘肃卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225643/index.m3u8
+#EXTINF:-1 tvg-id="QHTV" group-title="卫视",青海卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225644/index.m3u8
+#EXTINF:-1 tvg-id="NXTV" group-title="卫视",宁夏卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225645/index.m3u8
+#EXTINF:-1 tvg-id="XJTV" group-title="卫视",新疆卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225646/index.m3u8
+#EXTINF:-1 tvg-id="BTTV" group-title="卫视",兵团卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225647/index.m3u8
+#EXTINF:-1 tvg-id="PhoenixChinese" group-title="港澳台",凤凰卫视中文台
+http://39.134.115.191:6610/PLTV/88888888/224/3221225648/index.m3u8
+#EXTINF:-1 tvg-id="PhoenixInfo" group-title="港澳台",凤凰卫视资讯台
+http://39.134.115.191:6610/PLTV/88888888/224/3221225649/index.m3u8
+#EXTINF:-1 tvg-id="PhoenixHK" group-title="港澳台",凤凰卫视香港台
+http://39.134.115.191:6610/PLTV/88888888/224/3221225650/index.m3u8
+#EXTINF:-1 tvg-id="Star" group-title="港澳台",星空卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225651/index.m3u8
+#EXTINF:-1 tvg-id="TVBJade" group-title="港澳台",TVB翡翠台
+http://39.134.115.191:6610/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1 tvg-id="TVBPearl" group-title="港澳台",TVB明珠台
+http://39.134.115.191:6610/PLTV/88888888/224/3221225653/index.m3u8
+#EXTINF:-1 tvg-id="HKT" group-title="港澳台",香港卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 tvg-id="MCTV" group-title="港澳台",澳门莲花卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225655/index.m3u8
+#EXTINF:-1 tvg-id="WSTV" group-title="体育",五星体育
+http://39.134.115.191:6610/PLTV/88888888/224/3221225656/index.m3u8
+#EXTINF:-1 tvg-id="BJSTV" group-title="体育",北京体育
+http://39.134.115.191:6610/PLTV/88888888/224/3221225657/index.m3u8
+#EXTINF:-1 tvg-id="GDSTV" group-title="体育",广东体育
+http://39.134.115.191:6610/PLTV/88888888/224/3221225658/index.m3u8
+#EXTINF:-1 tvg-id="SSTV" group-title="体育",上海体育
+http://39.134.115.191:6610/PLTV/88888888/224/3221225659/index.m3u8
+#EXTINF:-1 tvg-id="HNKE" group-title="少儿",湖南金鹰卡通
+http://39.134.115.191:6610/PLTV/88888888/224/3221225660/index.m3u8
+#EXTINF:-1 tvg-id="ZJST" group-title="少儿",浙江少儿
+http://39.134.115.191:6610/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 tvg-id="JSST" group-title="少儿",江苏少儿
+http://39.134.115.191:6610/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 tvg-id="BJKKT" group-title="少儿",北京卡酷少儿
+http://39.134.115.191:6610/PLTV/88888888/224/3221225663/index.m3u8
+#EXTINF:-1 tvg-id="CHC" group-title="电影",CHC电影
+http://39.134.115.191:6610/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:-1 tvg-id="CHCAction" group-title="电影",CHC动作电影
+http://39.134.115.191:6610/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 tvg-id="CHCFamily" group-title="电影",CHC家庭影院
+http://39.134.115.191:6610/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 tvg-id="StarMovie" group-title="电影",星空电影
+http://39.134.115.191:6610/PLTV/88888888/224/3221225667/index.m3u8
+#EXTINF:-1 tvg-id="HuaYuMovie" group-title="电影",华语电影
+http://39.134.115.191:6610/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1 tvg-id="GlobalMovie" group-title="电影",环球电影
+http://39.134.115.191:6610/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 tvg-id="BBCWorld" group-title="国际",BBC World
+http://39.134.115.191:6610/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 tvg-id="CNN" group-title="国际",CNN
+http://39.134.115.191:6610/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 tvg-id="NHKWorld" group-title="国际",NHK World
+http://39.134.115.191:6610/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 tvg-id="RT" group-title="国际",RT
+http://39.134.115.191:6610/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1 tvg-id="DW" group-title="国际",DW
+http://39.134.115.191:6610/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-id="France24" group-title="国际",France 24
+http://39.134.115.191:6610/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeera" group-title="国际",Al Jazeera
+http://39.134.115.191:6610/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4K" group-title="4K",CCTV4K
+http://39.134.115.191:6610/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 tvg-id="GD4K" group-title="4K",广东4K
+http://39.134.115.191:6610/PLTV/88888888/224/3221225678/index.m3u8
+#EXTINF:-1 tvg-id="BJ4K" group-title="4K",北京4K
+http://39.134.115.191:6610/PLTV/88888888/224/3221225679/index.m3u8
+#EXTINF:-1 tvg-id="SH4K" group-title="4K",上海4K
+http://39.134.115.191:6610/PLTV/88888888/224/3221225680/index.m3u8
+#EXTINF:-1 tvg-id="Test1" group-title="测试",测试源1
+http://39.134.115.191:6610/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1 tvg-id="Test2" group-title="测试",测试源2
+http://39.134.115.191:6610/PLTV/88888888/224/3221225682/index.m3u8
+#EXTINF:-1 tvg-id="Test3" group-title="测试",测试源3
+http://39.134.115.191:6610/PLTV/88888888/224/3221225683/index.m3u8
+#EXTINF:-1 tvg-id="Test4" group-title="测试",测试源4
+http://39.134.115.191:6610/PLTV/88888888/224/3221225684/index.m3u8
+#EXTINF:-1 tvg-id="Test5" group-title="测试",测试源5
+http://39.134.115.191:6610/PLTV/88888888/224/3221225685/index.m3u8
+#EXTINF:-1 tvg-id="Test6" group-title="测试",测试源6
+http://39.134.115.191:6610/PLTV/88888888/224/3221225686/index.m3u8
+#EXTINF:-1 tvg-id="Test7" group-title="测试",测试源7
+http://39.134.115.191:6610/PLTV/88888888/224/3221225687/index.m3u8
+#EXTINF:-1 tvg-id="Test8" group-title="测试",测试源8
+http://39.134.115.191:6610/PLTV/88888888/224/3221225688/index.m3u8
+#EXTINF:-1 tvg-id="Test9" group-title="测试",测试源9
+http://39.134.115.191:6610/PLTV/88888888/224/3221225689/index.m3u8
+#EXTINF:-1 tvg-id="Test10" group-title="测试",测试源10
+http://39.134.115.191:6610/PLTV/88888888/224/3221225690/index.m3u8
+#EXTINF:-1 tvg-id="Backup1" group-title="备用",备用源1
+http://39.134.115.191:6610/PLTV/88888888/224/3221225691/index.m3u8
+#EXTINF:-1 tvg-id="Backup2" group-title="备用",备用源2
+http://39.134.115.191:6610/PLTV/88888888/224/3221225692/index.m3u8
+#EXTINF:-1 tvg-id="Backup3" group-title="备用",备用源3
+http://39.134.115.191:6610/PLTV/88888888/224/3221225693/index.m3u8
+#EXTINF:-1 tvg-id="Backup4" group-title="备用",备用源4
+http://39.134.115.191:6610/PLTV/88888888/224/3221225694/index.m3u8
+#EXTINF:-1 tvg-id="Backup5" group-title="备用",备用源5
+http://39.134.115.191:6610/PLTV/88888888/224/3221225695/index.m3u8
+#EXTINF:-1 tvg-id="GZT" group-title="地方",广州台
+http://39.134.115.191:6610/PLTV/88888888/224/3221225696/index.m3u8
+#EXTINF:-1 tvg-id="SZT" group-title="地方",深圳台
+http://39.134.115.191:6610/PLTV/88888888/224/3221225697/index.m3u8
+#EXTINF:-1 tvg-id="ZHT" group-title="地方",珠海台
+http://39.134.115.191:6610/PLTV/88888888/224/3221225698/index.m3u8
+#EXTINF:-1 tvg-id="FST" group-title="地方",佛山台
+http://39.134.115.191:6610/PLTV/88888888/224/3221225699/index.m3u8
+#EXTINF:-1 tvg-id="DGT" group-title="地方",东莞台
+http://39.134.115.191:6610/PLTV/88888888/224/3221225700/index.m3u8
+#EXTINF:-1 tvg-id="ZST" group-title="地方",中山台
+http://39.134.115.191:6610/PLTV/88888888/224/3221225701/index.m3u8
+#EXTINF:-1 tvg-id="JMT" group-title="地方",江门台
+http://39.134.115.191:6610/PLTV/88888888/224/3221225702/index.m3u8
+#EXTINF:-1 tvg-id="ZQT" group-title="地方",肇庆台
+http://39.134.115.191:6610/PLTV/88888888/224/3221225703/index.m3u8
+#EXTINF:-1 tvg-id="HZT" group-title="地方",惠州台
+http://39.134.115.191:6610/PLTV/88888888/224/3221225704/index.m3u8
+#EXTINF:-1 tvg-id="STT" group-title="地方",汕头台
+http://39.134.115.191:6610/PLTV/88888888/224/3221225705/index.m3u8
+#EXTINF:-1 tvg-id="SWT" group-title="地方",汕尾台
+http://39.134.115.191:6610/PLTV/88888888/224/3221225706/index.m3u8
+#EXTINF:-1 tvg-id="JYT" group-title="地方",揭阳台
+http://39.134.115.191:6610/PLTV/88888888/224/3221225707/index.m3u8
+#EXTINF:-1 tvg-id="CZT" group-title="地方",潮州台
+http://39.134.115.191:6610/PLTV/88888888/224/3221225708/index.m3u8
+#EXTINF:-1 tvg-id="MZT" group-title="地方",梅州台
+http://39.134.115.191:6610/PLTV/88888888/224/3221225709/index.m3u8
+#EXTINF:-1 tvg-id="HET" group-title="地方",河源台
+http://39.134.115.191:6610/PLTV/88888888/224/3221225710/index.m3u8
+#EXTINF:-1 tvg-id="QYT" group-title="地方",清远台
+http://39.134.115.191:6610/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:-1 tvg-id="YFT" group-title="地方",云浮台
+http://39.134.115.191:6610/PLTV/88888888/224/3221225712/index.m3u8
+#EXTINF:-1 tvg-id="YJT" group-title="地方",阳江台
+http://39.134.115.191:6610/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1 tvg-id="MMT" group-title="地方",茂名台
+http://39.134.115.191:6610/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1 tvg-id="ZJT" group-title="地方",湛江台
+http://39.134.115.191:6610/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 tvg-id="SGT" group-title="地方",韶关台
+http://39.134.115.191:6610/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 tvg-id="BJ1" group-title="地方",北京1
+http://39.134.115.191:6610/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 tvg-id="BJ2" group-title="地方",北京2
+http://39.134.115.191:6610/PLTV/88888888/224/3221225718/index.m3u8
+#EXTINF:-1 tvg-id="BJ3" group-title="地方",北京3
+http://39.134.115.191:6610/PLTV/88888888/224/3221225719/index.m3u8
+#EXTINF:-1 tvg-id="BJ4" group-title="地方",北京4
+http://39.134.115.191:6610/PLTV/88888888/224/3221225720/index.m3u8
+#EXTINF:-1 tvg-id="BJ5" group-title="地方",北京5
+http://39.134.115.191:6610/PLTV/88888888/224/3221225721/index.m3u8
+#EXTINF:-1 tvg-id="BJ6" group-title="地方",北京6
+http://39.134.115.191:6610/PLTV/88888888/224/3221225722/index.m3u8
+#EXTINF:-1 tvg-id="BJ7" group-title="地方",北京7
+http://39.134.115.191:6610/PLTV/88888888/224/3221225723/index.m3u8
+#EXTINF:-1 tvg-id="BJ8" group-title="地方",北京8
+http://39.134.115.191:6610/PLTV/88888888/224/3221225724/index.m3u8
+#EXTINF:-1 tvg-id="BJ9" group-title="地方",北京9
+http://39.134.115.191:6610/PLTV/88888888/224/3221225725/index.m3u8
+#EXTINF:-1 tvg-id="BJ10" group-title="地方",北京10
+http://39.134.115.191:6610/PLTV/88888888/224/3221225726/index.m3u8
+#EXTINF:-1 tvg-id="SH1" group-title="地方",上海1
+http://39.134.115.191:6610/PLTV/88888888/224/3221225727/index.m3u8
+#EXTINF:-1 tvg-id="SH2" group-title="地方",上海2
+http://39.134.115.191:6610/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1 tvg-id="SH3" group-title="地方",上海3
+http://39.134.115.191:6610/PLTV/88888888/224/3221225729/index.m3u8
+#EXTINF:-1 tvg-id="SH4" group-title="地方",上海4
+http://39.134.115.191:6610/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 tvg-id="SH5" group-title="地方",上海5
+http://39.134.115.191:6610/PLTV/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 tvg-id="SH6" group-title="地方",上海6
+http://39.134.115.191:6610/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 tvg-id="SH7" group-title="地方",上海7
+http://39.134.115.191:6610/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 tvg-id="SH8" group-title="地方",上海8
+http://39.134.115.191:6610/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-id="SH9" group-title="地方",上海9
+http://39.134.115.191:6610/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1 tvg-id="SH10" group-title="地方",上海10
+http://39.134.115.191:6610/PLTV/88888888/224/3221225736/index.m3u8
+#EXTINF:-1 tvg-id="TJ1" group-title="地方",天津1
+http://39.134.115.191:6610/PLTV/88888888/224/3221225737/index.m3u8
+#EXTINF:-1 tvg-id="TJ2" group-title="地方",天津2
+http://39.134.115.191:6610/PLTV/88888888/224/3221225738/index.m3u8
+#EXTINF:-1 tvg-id="TJ3" group-title="地方",天津3
+http://39.134.115.191:6610/PLTV/88888888/224/3221225739/index.m3u8
+#EXTINF:-1 tvg-id="TJ4" group-title="地方",天津4
+http://39.134.115.191:6610/PLTV/88888888/224/3221225740/index.m3u8
+#EXTINF:-1 tvg-id="TJ5" group-title="地方",天津5
+http://39.134.115.191:6610/PLTV/88888888/224/3221225741/index.m3u8
+#EXTINF:-1 tvg-id="TJ6" group-title="地方",天津6
+http://39.134.115.191:6610/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:-1 tvg-id="TJ7" group-title="地方",天津7
+http://39.134.115.191:6610/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-id="TJ8" group-title="地方",天津8
+http://39.134.115.191:6610/PLTV/88888888/224/3221225744/index.m3u8
+#EXTINF:-1 tvg-id="TJ9" group-title="地方",天津9
+http://39.134.115.191:6610/PLTV/88888888/224/3221225745/index.m3u8
+#EXTINF:-1 tvg-id="TJ10" group-title="地方",天津10
+http://39.134.115.191:6610/PLTV/88888888/224/3221225746/index.m3u8
+#EXTINF:-1 tvg-id="CQ1" group-title="地方",重庆1
+http://39.134.115.191:6610/PLTV/88888888/224/3221225747/index.m3u8
+#EXTINF:-1 tvg-id="CQ2" group-title="地方",重庆2
+http://39.134.115.191:6610/PLTV/88888888/224/3221225748/index.m3u8
+#EXTINF:-1 tvg-id="CQ3" group-title="地方",重庆3
+http://39.134.115.191:6610/PLTV/88888888/224/3221225749/index.m3u8
+#EXTINF:-1 tvg-id="CQ4" group-title="地方",重庆4
+http://39.134.115.191:6610/PLTV/88888888/224/3221225750/index.m3u8
+#EXTINF:-1 tvg-id="CQ5" group-title="地方",重庆5
+http://39.134.115.191:6610/PLTV/88888888/224/3221225751/index.m3u8
+#EXTINF:-1 tvg-id="CQ6" group-title="地方",重庆6
+http://39.134.115.191:6610/PLTV/88888888/224/3221225752/index.m3u8
+#EXTINF:-1 tvg-id="CQ7" group-title="地方",重庆7
+http://39.134.115.191:6610/PLTV/88888888/224/3221225753/index.m3u8
+#EXTINF:-1 tvg-id="CQ8" group-title="地方",重庆8
+http://39.134.115.191:6610/PLTV/88888888/224/3221225754/index.m3u8
+#EXTINF:-1 tvg-id="CQ9" group-title="地方",重庆9
+http://39.134.115.191:6610/PLTV/88888888/224/3221225755/index.m3u8
+#EXTINF:-1 tvg-id="CQ10" group-title="地方",重庆10
+http://39.134.115.191:6610/PLTV/88888888/224/3221225756/index.m3u8
+#EXTINF:-1 tvg-id="Test11" group-title="测试",测试源11
+http://39.134.115.191:6610/PLTV/88888888/224/3221225757/index.m3u8
+#EXTINF:-1 tvg-id="Test12" group-title="测试",测试源12
+http://39.134.115.191:6610/PLTV/88888888/224/3221225758/index.m3u8
+#EXTINF:-1 tvg-id="Test13" group-title="测试",测试源13
+http://39.134.115.191:6610/PLTV/88888888/224/3221225759/index.m3u8
+#EXTINF:-1 tvg-id="Test14" group-title="测试",测试源14
+http://39.134.115.191:6610/PLTV/88888888/224/3221225760/index.m3u8
+#EXTINF:-1 tvg-id="Test15" group-title="测试",测试源15
+http://39.134.115.191:6610/PLTV/88888888/224/3221225761/index.m3u8
+#EXTINF:-1 tvg-id="Test16" group-title="测试",测试源16
+http://39.134.115.191:6610/PLTV/88888888/224/3221225762/index.m3u8
+#EXTINF:-1 tvg-id="Test17" group-title="测试",测试源17
+http://39.134.115.191:6610/PLTV/88888888/224/3221225763/index.m3u8
+#EXTINF:-1 tvg-id="Test18" group-title="测试",测试源18
+http://39.134.115.191:6610/PLTV/88888888/224/3221225764/index.m3u8
+#EXTINF:-1 tvg-id="Test19" group-title="测试",测试源19
+http://39.134.115.191:6610/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 tvg-id="Test20" group-title="测试",测试源20
+http://39.134.115.191:6610/PLTV/88888888/224/3221225766/index.m3u8
+#EXTINF:-1 tvg-id="Backup6" group-title="备用",备用源6
+http://39.134.115.191:6610/PLTV/88888888/224/3221225767/index.m3u8
+#EXTINF:-1 tvg-id="Backup7" group-title="备用",备用源7
+http://39.134.115.191:6610/PLTV/88888888/224/3221225768/index.m3u8
+#EXTINF:-1 tvg-id="Backup8" group-title="备用",备用源8
+http://39.134.115.191:6610/PLTV/88888888/224/3221225769/index.m3u8
+#EXTINF:-1 tvg-id="Backup9" group-title="备用",备用源9
+http://39.134.115.191:6610/PLTV/88888888/224/3221225770/index.m3u8
+#EXTINF:-1 tvg-id="Backup10" group-title="备用",备用源10
+http://39.134.115.191:6610/PLTV/88888888/224/3221225771/index.m3u8
+#EXTINF:-1 tvg-id="Test21" group-title="测试",测试源21
+http://39.134.115.191:6610/PLTV/88888888/224/3221225772/index.m3u8
+#EXTINF:-1 tvg-id="Test22" group-title="测试",测试源22
+http://39.134.115.191:6610/PLTV/88888888/224/3221225773/index.m3u8
+#EXTINF:-1 tvg-id="Test23" group-title="测试",测试源23
+http://39.134.115.191:6610/PLTV/88888888/224/3221225774/index.m3u8
+#EXTINF:-1 tvg-id="Test24" group-title="测试",测试源24
+http://39.134.115.191:6610/PLTV/88888888/224/3221225775/index.m3u8
+#EXTINF:-1 tvg-id="Test25" group-title="测试",测试源25
+http://39.134.115.191:6610/PLTV/88888888/224/3221225776/index.m3u8
+#EXTINF:-1 tvg-id="Test26" group-title="测试",测试源26
+http://39.134.115.191:6610/PLTV/88888888/224/3221225777/index.m3u8
+#EXTINF:-1 tvg-id="Test27" group-title="测试",测试源27
+http://39.134.115.191:6610/PLTV/88888888/224/3221225778/index.m3u8
+#EXTINF:-1 tvg-id="Test28" group-title="测试",测试源28
+http://39.134.115.191:6610/PLTV/88888888/224/3221225779/index.m3u8
+#EXTINF:-1 tvg-id="Test29" group-title="测试",测试源29
+http://39.134.115.191:6610/PLTV/88888888/224/3221225780/index.m3u8
+#EXTINF:-1 tvg-id="Test30" group-title="测试",测试源30
+http://39.134.115.191:6610/PLTV/88888888/224/3221225781/index.m3u8
+#EXTINF:-1 tvg-id="Test31" group-title="测试",测试源31
+http://39.134.115.191:6610/PLTV/88888888/224/3221225782/index.m3u8
+#EXTINF:-1 tvg-id="Test32" group-title="测试",测试源32
+http://39.134.115.191:6610/PLTV/88888888/224/3221225783/index.m3u8
+#EXTINF:-1 tvg-id="Test33" group-title="测试",测试源33
+http://39.134.115.191:6610/PLTV/88888888/224/3221225784/index.m3u8
+#EXTINF:-1 tvg-id="Test34" group-title="测试",测试源34
+http://39.134.115.191:6610/PLTV/88888888/224/3221225785/index.m3u8
+#EXTINF:-1 tvg-id="Test35" group-title="测试",测试源35
+http://39.134.115.191:6610/PLTV/88888888/224/3221225786/index.m3u8
+#EXTINF:-1 tvg-id="Test36" group-title="测试",测试源36
+http://39.134.115.191:6610/PLTV/88888888/224/3221225787/index.m3u8
+#EXTINF:-1 tvg-id="Test37" group-title="测试",测试源37
+http://39.134.115.191:6610/PLTV/88888888/224/3221225788/index.m3u8
+#EXTINF:-1 tvg-id="Test38" group-title="测试",测试源38
+http://39.134.115.191:6610/PLTV/88888888/224/3221225789/index.m3u8
+#EXTINF:-1 tvg-id="Test39" group-title="测试",测试源39
+http://39.134.115.191:6610/PLTV/88888888/224/3221225790/index.m3u8
+#EXTINF:-1 tvg-id="Test40" group-title="测试",测试源40
+http://39.134.115.191:6610/PLTV/88888888/224/3221225791/index.m3u8
+#EXTINF:-1 tvg-id="Test41" group-title="测试",测试源41
+http://39.134.115.191:6610/PLTV/88888888/224/3221225792/index.m3u8
+#EXTINF:-1 tvg-id="Test42" group-title="测试",测试源42
+http://39.134.115.191:6610/PLTV/88888888/224/3221225793/index.m3u8
+#EXTINF:-1 tvg-id="Test43" group-title="测试",测试源43
+http://39.134.115.191:6610/PLTV/88888888/224/3221225794/index.m3u8
+#EXTINF:-1 tvg-id="Test44" group-title="测试",测试源44
+http://39.134.115.191:6610/PLTV/88888888/224/3221225795/index.m3u8
+#EXTINF:-1 tvg-id="Test45" group-title="测试",测试源45
+http://39.134.115.191:6610/PLTV/88888888/224/3221225796/index.m3u8
+#EXTINF:-1 tvg-id="Test46" group-title="测试",测试源46
+http://39.134.115.191:6610/PLTV/88888888/224/3221225797/index.m3u8
+#EXTINF:-1 tvg-id="Test47" group-title="测试",测试源47
+http://39.134.115.191:6610/PLTV/88888888/224/3221225798/index.m3u8
+#EXTINF:-1 tvg-id="Test48" group-title="测试",测试源48
+http://39.134.115.191:6610/PLTV/88888888/224/3221225799/index.m3u8
+#EXTINF:-1 tvg-id="Test49" group-title="测试",测试源49
+http://39.134.115.191:6610/PLTV/88888888/224/3221225800/index.m3u8
+#EXTINF:-1 tvg-id="Test50" group-title="测试",测试源50
+http://39.134.115.191:6610/PLTV/88888888/224/3221225801/index.m3u8
+#EXTINF:-1 tvg-id="Backup11" group-title="备用",备用源11
+http://39.134.115.191:6610/PLTV/88888888/224/3221225802/index.m3u8
+#EXTINF:-1 tvg-id="Backup12" group-title="备用",备用源12
+http://39.134.115.191:6610/PLTV/88888888/224/3221225803/index.m3u8
+#EXTINF:-1 tvg-id="Backup13" group-title="备用",备用源13
+http://39.134.115.191:6610/PLTV/88888888/224/3221225804/index.m3u8
+#EXTINF:-1 tvg-id="Backup14" group-title="备用",备用源14
+http://39.134.115.191:6610/PLTV/88888888/224/3221225805/index.m3u8
+#EXTINF:-1 tvg-id="Backup15" group-title="备用",备用源15
+http://39.134.115.191:6610/PLTV/88888888/224/3221225806/index.m3u8
+#EXTINF:-1 tvg-id="Test51" group-title="测试",测试源51
+http://39.134.115.191:6610/PLTV/88888888/224/3221225807/index.m3u8
+#EXTINF:-1 tvg-id="Test52" group-title="测试",测试源52
+http://39.134.115.191:6610/PLTV/88888888/224/3221225808/index.m3u8
+#EXTINF:-1 tvg-id="Test53" group-title="测试",测试源53
+http://39.134.115.191:6610/PLTV/88888888/224/3221225809/index.m3u8
+#EXTINF:-1 tvg-id="Test54" group-title="测试",测试源54
+http://39.134.115.191:6610/PLTV/88888888/224/3221225810/index.m3u8
+#EXTINF:-1 tvg-id="Test55" group-title="测试",测试源55
+http://39.134.115.191:6610/PLTV/88888888/224/3221225811/index.m3u8
+#EXTINF:-1 tvg-id="Test56" group-title="测试",测试源56
+http://39.134.115.191:6610/PLTV/88888888/224/3221225812/index.m3u8
+#EXTINF:-1 tvg-id="Test57" group-title="测试",测试源57
+http://39.134.115.191:6610/PLTV/88888888/224/3221225813/index.m3u8
+#EXTINF:-1 tvg-id="Test58" group-title="测试",测试源58
+http://39.134.115.191:6610/PLTV/88888888/224/3221225814/index.m3u8
+#EXTINF:-1 tvg-id="Test59" group-title="测试",测试源59
+http://39.134.115.191:6610/PLTV/88888888/224/3221225815/index.m3u8
+#EXTINF:-1 tvg-id="Test60" group-title="测试",测试源60
+http://39.134.115.191:6610/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1 tvg-id="Test61" group-title="测试",测试源61
+http://39.134.115.191:6610/PLTV/88888888/224/3221225817/index.m3u8
+#EXTINF:-1 tvg-id="Test62" group-title="测试",测试源62
+http://39.134.115.191:6610/PLTV/88888888/224/3221225818/index.m3u8
+#EXTINF:-1 tvg-id="Test63" group-title="测试",测试源63
+http://39.134.115.191:6610/PLTV/88888888/224/3221225819/index.m3u8
+#EXTINF:-1 tvg-id="Test64" group-title="测试",测试源64
+http://39.134.115.191:6610/PLTV/88888888/224/3221225820/index.m3u8
+#EXTINF:-1 tvg-id="Test65" group-title="测试",测试源65
+http://39.134.115.191:6610/PLTV/88888888/224/3221225821/index.m3u8
+#EXTINF:-1 tvg-id="Test66" group-title="测试",测试源66
+http://39.134.115.191:6610/PLTV/88888888/224/3221225822/index.m3u8
+#EXTINF:-1 tvg-id="Test67" group-title="测试",测试源67
+http://39.134.115.191:6610/PLTV/88888888/224/3221225823/index.m3u8
+#EXTINF:-1 tvg-id="Test68" group-title="测试",测试源68
+http://39.134.115.191:6610/PLTV/88888888/224/3221225824/index.m3u8
+#EXTINF:-1 tvg-id="Test69" group-title="测试",测试源69
+http://39.134.115.191:6610/PLTV/88888888/224/3221225825/index.m3u8
+#EXTINF:-1 tvg-id="Test70" group-title="测试",测试源70
+http://39.134.115.191:6610/PLTV/88888888/224/3221225826/index.m3u8
+#EXTINF:-1 tvg-id="Test71" group-title="测试",测试源71
+http://39.134.115.191:6610/PLTV/88888888/224/3221225827/index.m3u8
+#EXTINF:-1 tvg-id="Test72" group-title="测试",测试源72
+http://39.134.115.191:6610/PLTV/88888888/224/3221225828/index.m3u8
+#EXTINF:-1 tvg-id="Test73" group-title="测试",测试源73
+http://39.134.115.191:6610/PLTV/88888888/224/3221225829/index.m3u8
+#EXTINF:-1 tvg-id="Test74" group-title="测试",测试源74
+http://39.134.115.191:6610/PLTV/88888888/224/3221225830/index.m3u8
+#EXTINF:-1 tvg-id="Test75" group-title="测试",测试源75
+http://39.134.115.191:6610/PLTV/88888888/224/3221225831/index.m3u8
+#EXTINF:-1 tvg-id="Test76" group-title="测试",测试源76
+http://39.134.115.191:6610/PLTV/88888888/224/3221225832/index.m3u8
+#EXTINF:-1 tvg-id="Test77" group-title="测试",测试源77
+http://39.134.115.191:6610/PLTV/88888888/224/3221225833/index.m3u8
+#EXTINF:-1 tvg-id="Test78" group-title="测试",测试源78
+http://39.134.115.191:6610/PLTV/88888888/224/3221225834/index.m3u8
+#EXTINF:-1 tvg-id="Test79" group-title="测试",测试源79
+http://39.134.115.191:6610/PLTV/88888888/224/3221225835/index.m3u8
+#EXTINF:-1 tvg-id="Test80" group-title="测试",测试源80
+http://39.134.115.191:6610/PLTV/88888888/224/3221225836/index.m3u8
+#EXTINF:-1 tvg-id="Backup16" group-title="备用",备用源16
+http://39.134.115.191:6610/PLTV/88888888/224/3221225837/index.m3u8
+#EXTINF:-1 tvg-id="Backup17" group-title="备用",备用源17
+http://39.134.115.191:6610/PLTV/88888888/224/3221225838/index.m3u8
+#EXTINF:-1 tvg-id="Backup18" group-title="备用",备用源18
+http://39.134.115.191:6610/PLTV/88888888/224/3221225839/index.m3u8
+#EXTINF:-1 tvg-id="Backup19" group-title="备用",备用源19
+http://39.134.115.191:6610/PLTV/88888888/224/3221225840/index.m3u8
+#EXTINF:-1 tvg-id="Backup20" group-title="备用",备用源20
+http://39.134.115.191:6610/PLTV/88888888/224/3221225841/index.m3u8
+#EXTINF:-1 tvg-id="Test81" group-title="测试",测试源81
+http://39.134.115.191:6610/PLTV/88888888/224/3221225842/index.m3u8
+#EXTINF:-1 tvg-id="Test82" group-title="测试",测试源82
+http://39.134.115.191:6610/PLTV/88888888/224/3221225843/index.m3u8
+#EXTINF:-1 tvg-id="Test83" group-title="测试",测试源83
+http://39.134.115.191:6610/PLTV/88888888/224/3221225844/index.m3u8
+#EXTINF:-1 tvg-id="Test84" group-title="测试",测试源84
+http://39.134.115.191:6610/PLTV/88888888/224/3221225845/index.m3u8
+#EXTINF:-1 tvg-id="Test85" group-title="测试",测试源85
+http://39.134.115.191:6610/PLTV/88888888/224/3221225846/index.m3u8
+#EXTINF:-1 tvg-id="Test86" group-title="测试",测试源86
+http://39.134.115.191:6610/PLTV/88888888/224/3221225847/index.m3u8
+#EXTINF:-1 tvg-id="Test87" group-title="测试",测试源87
+http://39.134.115.191:6610/PLTV/88888888/224/3221225848/index.m3u8
+#EXTINF:-1 tvg-id="Test88" group-title="测试",测试源88
+http://39.134.115.191:6610/PLTV/88888888/224/3221225849/index.m3u8
+#EXTINF:-1 tvg-id="Test89" group-title="测试",测试源89
+http://39.134.115.191:6610/PLTV/88888888/224/3221225850/index.m3u8
+#EXTINF:-1 tvg-id="Test90" group-title="测试",测试源90
+http://39.134.115.191:6610/PLTV/88888888/224/3221225851/index.m3u8
+#EXTINF:-1 tvg-id="Test91" group-title="测试",测试源91
+http://39.134.115.191:6610/PLTV/88888888/224/3221225852/index.m3u8
+#EXTINF:-1 tvg-id="Test92" group-title="测试",测试源92
+http://39.134.115.191:6610/PLTV/88888888/224/3221225853/index.m3u8
+#EXTINF:-1 tvg-id="Test93" group-title="测试",测试源93
+http://39.134.115.191:6610/PLTV/88888888/224/3221225854/index.m3u8
+#EXTINF:-1 tvg-id="Test94" group-title="测试",测试源94
+http://39.134.115.191:6610/PLTV/88888888/224/3221225855/index.m3u8
+#EXTINF:-1 tvg-id="Test95" group-title="测试",测试源95
+http://39.134.115.191:6610/PLTV/88888888/224/3221225856/index.m3u8
+#EXTINF:-1 tvg-id="Test96" group-title="测试",测试源96
+http://39.134.115.191:6610/PLTV/88888888/224/3221225857/index.m3u8
+#EXTINF:-1 tvg-id="Test97" group-title="测试",测试源97
+http://39.134.115.191:6610/PLTV/88888888/224/3221225858/index.m3u8
+#EXTINF:-1 tvg-id="Test98" group-title="测试",测试源98
+http://39.134.115.191:6610/PLTV/88888888/224/3221225859/index.m3u8
+#EXTINF:-1 tvg-id="Test99" group-title="测试",测试源99
+http://39.134.115.191:6610/PLTV/88888888/224/3221225860/index.m3u8
+#EXTINF:-1 tvg-id="Test100" group-title="测试",测试源100
+http://39.134.115.191:6610/PLTV/88888888/224/3221225861/index.m3u8
+#EXTINF:-1 tvg-id="Backup21" group-title="备用",备用源21
+http://39.134.115.191:6610/PLTV/88888888/224/3221225862/index.m3u8
+#EXTINF:-1 tvg-id="Backup22" group-title="备用",备用源22
+http://39.134.115.191:6610/PLTV/88888888/224/3221225863/index.m3u8
+#EXTINF:-1 tvg-id="Backup23" group-title="备用",备用源23
+http://39.134.115.191:6610/PLTV/88888888/224/3221225864/index.m3u8
+#EXTINF:-1 tvg-id="Backup24" group-title="备用",备用源24
+http://39.134.115.191:6610/PLTV/88888888/224/3221225865/index.m3u8
+#EXTINF:-1 tvg-id="Backup25" group-title="备用",备用源25
+http://39.134.115.191:6610/PLTV/88888888/224/3221225866/index.m3u8
+#EXTINF:-1 tvg-id="Test101" group-title="测试",测试源101
+http://39.134.115.191:6610/PLTV/88888888/224/3221225867/index.m3u8
+#EXTINF:-1 tvg-id="Test102" group-title="测试",测试源102
+http://39.134.115.191:6610/PLTV/88888888/224/3221225868/index.m3u8
+#EXTINF:-1 tvg-id="Test103" group-title="测试",测试源103
+http://39.134.115.191:6610/PLTV/88888888/224/3221225869/index.m3u8
+#EXTINF:-1 tvg-id="Test104" group-title="测试",测试源104
+http://39.134.115.191:6610/PLTV/88888888/224/3221225870/index.m3u8
+#EXTINF:-1 tvg-id="Test105" group-title="测试",测试源105
+http://39.134.115.191:6610/PLTV/88888888/224/3221225871/index.m3u8
+#EXTINF:-1 tvg-id="Test106" group-title="测试",测试源106
+http://39.134.115.191:6610/PLTV/88888888/224/3221225872/index.m3u8
+#EXTINF:-1 tvg-id="Test107" group-title="测试",测试源107
+http://39.134.115.191:6610/PLTV/88888888/224/3221225873/index.m3u8
+#EXTINF:-1 tvg-id="Test108" group-title="测试",测试源108
+http://39.134.115.191:6610/PLTV/88888888/224/3221225874/index.m3u8
+#EXTINF:-1 tvg-id="Test109" group-title="测试",测试源109
+http://39.134.115.191:6610/PLTV/88888888/224/3221225875/index.m3u8
+#EXTINF:-1 tvg-id="Test110" group-title="测试",测试源110
+http://39.134.115.191:6610/PLTV/88888888/224/3221225876/index.m3u8
+#EXTINF:-1 tvg-id="Test111" group-title="测试",测试源111
+http://39.134.115.191:6610/PLTV/88888888/224/3221225877/index.m3u8
+#EXTINF:-1 tvg-id="Test112" group-title="测试",测试源112
+http://39.134.115.191:6610/PLTV/88888888/224/3221225878/index.m3u8
+#EXTINF:-1 tvg-id="Test113" group-title="测试",测试源113
+http://39.134.115.191:6610/PLTV/88888888/224/3221225879/index.m3u8
+#EXTINF:-1 tvg-id="Test114" group-title="测试",测试源114
+http://39.134.115.191:6610/PLTV/88888888/224/3221225880/index.m3u8
+#EXTINF:-1 tvg-id="Test115" group-title="测试",测试源115
+http://39.134.115.191:6610/PLTV/88888888/224/3221225881/index.m3u8
+#EXTINF:-1 tvg-id="Test116" group-title="测试",测试源116
+http://39.134.115.191:6610/PLTV/88888888/224/3221225882/index.m3u8
+#EXTINF:-1 tvg-id="Test117" group-title="测试",测试源117
+http://39.134.115.191:6610/PLTV/88888888/224/3221225883/index.m3u8
+#EXTINF:-1 tvg-id="Test118" group-title="测试",测试源118
+http://39.134.115.191:6610/PLTV/88888888/224/3221225884/index.m3u8
+#EXTINF:-1 tvg-id="Test119" group-title="测试",测试源119
+http://39.134.115.191:6610/PLTV/88888888/224/3221225885/index.m3u8
+#EXTINF:-1 tvg-id="Test120" group-title="测试",测试源120
+http://39.134.115.191:6610/PLTV/88888888/224/3221225886/index.m3u8
+#EXTINF:-1 tvg-id="Test121" group-title="测试",测试源121
+http://39.134.115.191:6610/PLTV/88888888/224/3221225887/index.m3u8
+#EXTINF:-1 tvg-id="Test122" group-title="测试",测试源122
+http://39.134.115.191:6610/PLTV/88888888/224/3221225888/index.m3u8
+#EXTINF:-1 tvg-id="Test123" group-title="测试",测试源123
+http://39.134.115.191:6610/PLTV/88888888/224/3221225889/index.m3u8
+#EXTINF:-1 tvg-id="Test124" group-title="测试",测试源124
+http://39.134.115.191:6610/PLTV/88888888/224/3221225890/index.m3u8
+#EXTINF:-1 tvg-id="Test125" group-title="测试",测试源125
+http://39.134.115.191:6610/PLTV/88888888/224/3221225891/index.m3u8
+#EXTINF:-1 tvg-id="Test126" group-title="测试",测试源126
+http://39.134.115.191:6610/PLTV/88888888/224/3221225892/index.m3u8
+#EXTINF:-1 tvg-id="Test127" group-title="测试",测试源127
+http://39.134.115.191:6610/PLTV/88888888/224/3221225893/index.m3u8
+#EXTINF:-1 tvg-id="Test128" group-title="测试",测试源128
+http://39.134.115.191:6610/PLTV/88888888/224/3221225894/index.m3u8
+#EXTINF:-1 tvg-id="Test129" group-title="测试",测试源129
+http://39.134.115.191:6610/PLTV/88888888/224/3221225895/index.m3u8
+#EXTINF:-1 tvg-id="Test130" group-title="测试",测试源130
+http://39.134.115.191:6610/PLTV/88888888/224/3221225896/index.m3u8
+#EXTINF:-1 tvg-id="Backup26" group-title="备用",备用源26
+http://39.134.115.191:6610/PLTV/88888888/224/3221225897/index.m3u8
+#EXTINF:-1 tvg-id="Backup27" group-title="备用",备用源27
+http://39.134.115.191:6610/PLTV/88888888/224/3221225898/index.m3u8
+#EXTINF:-1 tvg-id="Backup28" group-title="备用",备用源28
+http://39.134.115.191:6610/PLTV/88888888/224/3221225899/index.m3u8
+#EXTINF:-1 tvg-id="Backup29" group-title="备用",备用源29
+http://39.134.115.191:6610/PLTV/88888888/224/3221225900/index.m3u8
+#EXTINF:-1 tvg-id="Backup30" group-title="备用",备用源30
+http://39.134.115.191:6610/PLTV/88888888/224/3221225901/index.m3u8
+#EXTINF:-1 tvg-id="Test131" group-title="测试",测试源131
+http://39.134.115.191:6610/PLTV/88888888/224/3221225902/index.m3u8
+#EXTINF:-1 tvg-id="Test132" group-title="测试",测试源132
+http://39.134.115.191:6610/PLTV/88888888/224/3221225903/index.m3u8
+#EXTINF:-1 tvg-id="Test133" group-title="测试",测试源133
+http://39.134.115.191:6610/PLTV/88888888/224/3221225904/index.m3u8
+#EXTINF:-1 tvg-id="Test134" group-title="测试",测试源134
+http://39.134.115.191:6610/PLTV/88888888/224/3221225905/index.m3u8
+#EXTINF:-1 tvg-id="Test135" group-title="测试",测试源135
+http://39.134.115.191:6610/PLTV/88888888/224/3221225906/index.m3u8
+#EXTINF:-1 tvg-id="Test136" group-title="测试",测试源136
+http://39.134.115.191:661
+
+
+
+# ==================== 日本 (Japan) ====================
+#EXTINF:-1 tvg-id="NHKGeneral.jp" tvg-logo="https://i.imgur.com/NHK.png" group-title="日本",NHK综合
+https://nhk-g.jp/live/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKE.jp" tvg-logo="https://i.imgur.com/NHKE.png" group-title="日本",NHK教育
+https://nhk-e.jp/live/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-logo="https://i.imgur.com/NHKWorld.png" group-title="日本",NHK World（英语）
+https://nhkwtv.akamaized.net/hls/live/2003459/nhkwtv/master.m3u8
+#EXT0INF:-1 tvg-id="NHKWorldPremium.jp" tvg-logo="https://i.imgur.com/NHKPremium.png" group-title="日本",NHK World Premium
+https://nhkwtv.akamaized.net/hls/live/2003460/nhkworld/master.m3u8
+#EXTINF:-1 tvg-id="FujiTV.jp" tvg-logo="https://i.imgur.com/FujiTV.png" group-title="日本",富士电视台
+https://fod-fujitv.stream.co.jp/hls/live/fod.m3u8
+#EXTINF:-1 tvg-id="TBS.jp" tvg-logo="https://i.imgur.com/TBS.png" group-title="日本",TBS电视台
+https://tbs-free.tbs.co.jp/tbs/live.m3u8
+#EXTINF:-1 tvg-id="NipponTV.jp" tvg-logo="https://i.imgur.com/NTV.png" group-title="日本",日本电视台（NTV）
+https://hls.ntv.co.jp/ntv/live.m3u8
+#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-logo="https://i.imgur.com/TVAsahi.png" group-title="日本",朝日电视台
+https://abema.tv/channels/abema-news/live.m3u8
+#EXTINF:-1 tvg-id="TVTokyo.jp" tvg-logo="https://i.imgur.com/TVTokyo.png" group-title="日本",东京电视台
+https://tvtokyo-hls.live-api.com/live.m3u8
+#EXTINF:-1 tvg-id="WOWOWPrime.jp" tvg-logo="https://i.imgur.com/WOWOW.png" group-title="日本",WOWOW Prime
+https://wowow-live.wowow.co.jp/hls/live/prime.m3u8
+#EXTINF:-1 tvg-id="BS11.jp" tvg-logo="https://i.imgur.com/BS11.png" group-title="日本",BS11
+https://bs11.jp/live/stream.m3u8
+#EXTINF:-1 tvg-id="ABEMATV.jp" tvg-logo="https://i.imgur.com/Abema.png" group-title="日本",ABEMA TV
+https://abema.tv/channels/abema-anime/live.m3u8
+#EXTINF:-1 tvg-id="QVCJapan.jp" tvg-logo="https://i.imgur.com/QVC.png" group-title="日本",QVC日本
+https://qvcjp-hls.stream.co.jp/live.m3u8
+#EXTINF:-1 tvg-id="JSPORTS1.jp" tvg-logo="https://i.imgur.com/JSports.png" group-title="日本",J SPORTS 1
+https://jsports-live.cdn.dazn.com/jp/live/jsports1.m3u8
+#EXTINF:-1 tvg-id="JSPORTS2.jp" tvg-logo="https://i.imgur.com/JSports.png" group-title="日本",J SPORTS 2
+https://jsports-live.cdn.dazn.com/jp/live/jsports2.m3u8
+#EXTINF:-1 tvg-id="JSPORTS3.jp" tvg-logo="https://i.imgur.com/JSports.png" group-title="日本",J SPORTS 3
+https://jsports-live.cdn.dazn.com/jp/live/jsports3.m3u8
+#EXTINF:-1 tvg-id="JSPORTS4.jp" tvg-logo="https://i.imgur.com/JSports.png" group-title="日本",J SPORTS 4
+https://jsports-live.cdn.dazn.com/jp/live/jsports4.m3u8
+#EXTINF:-1 tvg-id="SkyPerfecTV.jp" tvg-logo="https://i.imgur.com/SkyPerfecTV.png" group-title="日本",Sky PerfecTV!（综合）
+https://skyperfectv-live.cdn.dazn.com/jp/live/sky.m3u8
+#EXTINF:-1 tvg-id="NikkeiCNBC.jp" tvg-logo="https://i.imgur.com/Nikkei.png" group-title="日本",日经CNBC
+https://nikkei-live.cdn.dazn.com/jp/live/nikkei.m3u8
+
+# ==================== 韩国 (South Korea) ====================
+#EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://i.imgur.com/KBS1.png" group-title="韩国",KBS1
+https://kbs-dmb.sedn.net/live/kbs1.m3u8
+#EXTINF:-1 tvg-id="KBS2.kr" tvg-logo="https://i.imgur.com/KBS2.png" group-title="韩国",KBS2
+https://kbs-dmb.sedn.net/live/kbs2.m3u8
+#EXTINF:-1 tvg-id="MBC.kr" tvg-logo="https://i.imgur.com/MBC.png" group-title="韩国",MBC
+https://mbc.stream.co.kr/live/mbc.m3u8
+#EXTINF:-1 tvg-id="SBS.kr" tvg-logo="https://i.imgur.com/SBS.png" group-title="韩国",SBS
+https://sbs-live.sbs.co.kr/live/sbs.m3u8
+#EXTINF:-1 tvg-id="EBS.kr" tvg-logo="https://i.imgur.com/EBS.png" group-title="韩国",EBS教育
+https://ebs-live.ebs.co.kr/live/ebs1.m3u8
+#EXTINF:-1 tvg-id="JTBC.kr" tvg-logo="https://i.imgur.com/JTBC.png" group-title="韩国",JTBC
+https://jtbc-live.cdnjtbc.co.kr/live/jtbc.m3u8
+#EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/TVChosun.png" group-title="韩国",TV朝鲜
+https://tvchosun-live.cdnjtbc.co.kr/live/tvchosun.m3u8
+#EXTINF:-1 tvg-id="ChannelA.kr" tvg-logo="https://i.imgur.com/ChannelA.png" group-title="韩国",Channel A
+https://channela-live.cdnjtbc.co.kr/live/channela.m3u8
+#EXTINF:-1 tvg-id="MBN.kr" tvg-logo="https://i.imgur.com/MBN.png" group-title="韩国",MBN
+https://mbn-live.cdnjtbc.co.kr/live/mbn.m3u8
+#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-logo="https://i.imgur.com/Arirang.png" group-title="韩国",Arirang TV（英语）
+https://amdlive-ch01-1.mediacast.co.kr/amdlive-ch01-1/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="YTN.kr" tvg-logo="https://i.imgur.com/YTN.png" group-title="韩国",YTN新闻
+https://ytn-streaming.yonhapnews.co.kr/live/ytn.m3u8
+#EXTINF:-1 tvg-id="KBSN.kr" tvg-logo="https://i.imgur.com/KBSN.png" group-title="韩国",KBS N Sports
+https://kbsn-live.kbs.co.kr/live/kbsn.m3u8
+#EXTINF:-1 tvg-id="SBSGolf.kr" tvg-logo="https://i.imgur.com/SBSGolf.png" group-title="韩国",SBS Golf
+https://sbsgolf-live.sbs.co.kr/live/golf.m3u8
+#EXTINF:-1 tvg-id="MBCON.kr" tvg-logo="https://i.imgur.com/MBCON.png" group-title="韩国",MBC ON
+https://mbcon-live.mbc.co.kr/live/mbcon.m3u8
+#EXTINF:-1 tvg-id="OCN.kr" tvg-logo="https://i.imgur.com/OCN.png" group-title="韩国",OCN电影
+https://ocn-live.cjenm.com/live/ocn.m3u8
+
+# ==================== 香港 (Hong Kong) ====================
+#EXTINF:-1 tvg-id="TVBJade.hk" tvg-logo="https://i.imgur.com/TVB.png" group-title="香港",TVB翡翠台
+https://live.tvb.com/live/jade.m3u8
+#EXTINF:-1 tvg-id="TVBPearl.hk" tvg-logo="https://i.imgur.com/TVBPearl.png" group-title="香港",TVB明珠台
+https://live.tvb.com/live/pearl.m3u8
+#EXTINF:-1 tvg-id="ViuTV.hk" tvg-logo="https://i.imgur.com/ViuTV.png" group-title="香港",ViuTV
+https://d1viuv1x0mv5bk.cloudfront.net/live/viu.m3u8
+#EXTINF:-1 tvg-id="RTHK31.hk" tvg-logo="https://i.imgur.com/RTHK.png" group-title="香港",港台电视31
+https://rthklive.rthk.hk/rthk/ch1.m3u8
+#EXTINF:-1 tvg-id="RTHK32.hk" tvg-logo="https://i.imgur.com/RTHK.png" group-title="香港",港台电视32
+https://rthklive.rthk.hk/rthk/ch2.m3u8
+#EXTINF:-1 tvg-id="HOYTV.hk" tvg-logo="https://i.imgur.com/HOY.png" group-title="香港",HOY TV
+https://live.hoy.tv/live/hoy.m3u8
+#EXTINF:-1 tvg-id="PhoenixChinese.hk" tvg-logo="https://i.imgur.com/Phoenix.png" group-title="香港",凤凰卫视中文台
+https://39.134.115.191:6610/PLTV/88888888/224/3221225648/index.m3u8
+#EXTINF:-1 tvg-id="PhoenixInfo.hk" tvg-logo="https://i.imgur.com/Phoenix.png" group-title="香港",凤凰卫视资讯台
+https://39.134.115.191:6610/PLTV/88888888/224/3221225649/index.m3u8
+#EXTINF:-1 tvg-id="PhoenixHK.hk" tvg-logo="https://i.imgur.com/Phoenix.png" group-title="香港",凤凰卫视香港台
+https://39.134.115.191:6610/PLTV/88888888/224/3221225650/index.m3u8
+#EXTINF:-1 tvg-id="NowTVNews.hk" tvg-logo="https://i.imgur.com/NowTV.png" group-title="香港",Now新闻台
+https://nownews.now.com/live/news.m3u8
+#EXTINF:-1 tvg-id="CableNews.hk" tvg-logo="https://i.imgur.com/Cable.png" group-title="香港",有线新闻
+https://cable-live.i-cable.com/live/news.m3u8
+#EXTINF:-1 tvg-id="HKOpenTV.hk" tvg-logo="https://i.imgur.com/HKOpen.png" group-title="香港",香港开电视
+https://live.hkopen.tv/live/open.m3u8
+
+# ==================== 中国大陆 (Mainland China) ====================
+#EXTINF:-1 tvg-id="CCTV1.cn" group-title="中国大陆",CCTV1 综合
+http://39.134.115.191:6610/PLTV/88888888/224/3221226523/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2.cn" group-title="中国大陆",CCTV2 财经
+http://39.134.115.191:6610/PLTV/88888888/224/3221226524/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3.cn" group-title="中国大陆",CCTV3 综艺
+http://39.134.115.191:6610/PLTV/88888888/224/3221226525/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4.cn" group-title="中国大陆",CCTV4 国际
+http://39.134.115.191:6610/PLTV/88888888/224/3221226526/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn" group-title="中国大陆",CCTV5 体育
+http://39.134.115.191:6610/PLTV/88888888/224/3221226527/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5Plus.cn" group-title="中国大陆",CCTV5+ 体育赛事
+http://39.134.115.191:6610/PLTV/88888888/224/3221226528/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6.cn" group-title="中国大陆",CCTV6 电影
+http://39.134.115.191:6610/PLTV/88888888/224/3221226529/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7.cn" group-title="中国大陆",CCTV7 军事农业
+http://39.134.115.191:6610/PLTV/88888888/224/3221226530/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8.cn" group-title="中国大陆",CCTV8 电视剧
+http://39.134.115.191:6610/PLTV/88888888/224/3221226531/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9.cn" group-title="中国大陆",CCTV9 纪录
+http://39.134.115.191:6610/PLTV/88888888/224/3221226532/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10.cn" group-title="中国大陆",CCTV10 科教
+http://39.134.115.191:6610/PLTV/88888888/224/3221226533/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11.cn" group-title="中国大陆",CCTV11 戏曲
+http://39.134.115.191:6610/PLTV/88888888/224/3221226534/index.m3u8
+#EXTINF:-1 tvg-id="CCTV12.cn" group-title="中国大陆",CCTV12 社会与法
+http://39.134.115.191:6610/PLTV/88888888/224/3221226535/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13.cn" group-title="中国大陆",CCTV13 新闻
+http://39.134.115.191:6610/PLTV/88888888/224/3221226536/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14.cn" group-title="中国大陆",CCTV14 少儿
+http://39.134.115.191:6610/PLTV/88888888/224/3221226537/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15.cn" group-title="中国大陆",CCTV15 音乐
+http://39.134.115.191:6610/PLTV/88888888/224/3221226538/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16.cn" group-title="中国大陆",CCTV16 奥林匹克
+http://39.134.115.191:6610/PLTV/88888888/224/3221226539/index.m3u8
+#EXTINF:-1 tvg-id="CCTV17.cn" group-title="中国大陆",CCTV17 农业农村
+http://39.134.115.191:6610/PLTV/88888888/224/3221226540/index.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn" group-title="中国大陆",CGTN（英语）
+http://39.134.115.191:6610/PLTV/88888888/224/3221226542/index.m3u8
+#EXTINF:-1 tvg-id="BeijingTV.cn" group-title="中国大陆",北京卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225619/index.m3u8
+#EXTINF:-1 tvg-id="HunanTV.cn" group-title="中国大陆",湖南卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225623/index.m3u8
+#EXTINF:-1 tvg-id="ZhejiangTV.cn" group-title="中国大陆",浙江卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225622/index.m3u8
+#EXTINF:-1 tvg-id="JiangsuTV.cn" group-title="中国大陆",江苏卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225624/index.m3u8
+#EXTINF:-1 tvg-id="DragonTV.cn" group-title="中国大陆",东方卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225625/index.m3u8
+#EXTINF:-1 tvg-id="GuangdongTV.cn" group-title="中国大陆",广东卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225621/index.m3u8
+#EXTINF:-1 tvg-id="ShandongTV.cn" group-title="中国大陆",山东卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225626/index.m3u8
+#EXTINF:-1 tvg-id="AnhuiTV.cn" group-title="中国大陆",安徽卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225627/index.m3u8
+#EXTINF:-1 tvg-id="HenanTV.cn" group-title="中国大陆",河南卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225628/index.m3u8
+#EXTINF:-1 tvg-id="HubeiTV.cn" group-title="中国大陆",湖北卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225629/index.m3u8
+#EXTINF:-1 tvg-id="HebeiTV.cn" group-title="中国大陆",河北卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225630/index.m3u8
+#EXTINF:-1 tvg-id="LiaoningTV.cn" group-title="中国大陆",辽宁卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 tvg-id="ChongqingTV.cn" group-title="中国大陆",重庆卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-id="SichuanTV.cn" group-title="中国大陆",四川卫视
+http://39.134.115.191:6610/PLTV/88888888/224/3221225639/index.m3u8
+
+# ==================== 台湾 (Taiwan) ====================
+#EXTINF:-1 tvg-id="CTSTaiwan.tw" tvg-logo="https://i.imgur.com/CTS.png" group-title="台湾",华视
+https://cts.live.ftv.com.tw/live/cts.m3u8
+#EXTINF:-1 tvg-id="CTiNews.tw" tvg-logo="https://i.imgur.com/CTi.png" group-title="台湾",中天新闻
+https://news.cti.com.tw/live/news.m3u8
+#EXTINF:-1 tvg-id="SETNews.tw" tvg-logo="https://i.imgur.com/SET.png" group-title="台湾",三立新闻
+https://live.setn.com/live/setnews.m3u8
+#EXTINF:-1 tvg-id="TTV.tw" tvg-logo="https://i.imgur.com/TTV.png" group-title="台湾",台视
+https://ttv.live.ftv.com.tw/live/ttv.m3u8
+#EXTINF:-1 tvg-id="FTV.tw" tvg-logo="https://i.imgur.com/FTV.png" group-title="台湾",民视
+https://ftv.live.ftv.com.tw/live/ftv.m3u8
+#EXTINF:-1 tvg-id="ETTV.tw" tvg-logo="https://i.imgur.com/ETTV.png" group-title="台湾",东森新闻
+https://ettv.ebc.net.tw/live/news.m3u8
+#EXTINF:-1 tvg-id="TVBS.tw" tvg-logo="https://i.imgur.com/TVBS.png" group-title="台湾",TVBS新闻
+https://tvbsnews.tvbs.com.tw/live/news.m3u8
+#EXTINF:-1 tvg-id="ERA.tw" tvg-logo="https://i.imgur.com/ERA.png" group-title="台湾",年代新闻
+https://era.live.ftv.com.tw/live/era.m3u8
+#EXTINF:-1 tvg-id="PTS.tw" tvg-logo="https://i.imgur.com/PTS.png" group-title="台湾",公视
+https://pts.live.ftv.com.tw/live/pts.m3u8
+#EXTINF:-1 tvg-id="CTiEntertainment.tw" tvg-logo="https://i.imgur.com/CTi.png" group-title="台湾",中天综合
+https://ent.cti.com.tw/live/ent.m3u8
+#EXTINF:-1 tvg-id="FTVNews.tw" tvg-logo="https://i.imgur.com/FTVNews.png" group-title="台湾",民视新闻
+https://news.ftv.com.tw/live/news.m3u8
+#EXTINF:-1 tvg-id="EBCNews.tw" tvg-logo="https://i.imgur.com/EBC.png" group-title="台湾",东森财经新闻
+https://ebcnews.ebc.net.tw/live/finance.m3u8
+#EXTINF:-1 tvg-id="GTV.tw" tvg-logo="https://i.imgur.com/GTV.png" group-title="台湾",八大电视
+https://gtv.live.ftv.com.tw/live/gtv.m3u8
+#EXTINF:-1 tvg-id="MuchTV.tw" tvg-logo="https://i.imgur.com/MuchTV.png" group-title="台湾",Much TV
+https://much.live.ftv.com.tw/live/much.m3u8
+
+
+
+# ==================== 日本电影&电视剧频道 (Japan Movies & Dramas) ====================
+#EXTINF:-1 tvg-id="WOWOWPrime.jp" tvg-logo="https://i.imgur.com/WOWOW.png" group-title="日本电影&电视剧",WOWOW Prime（电影/剧集）
+https://wowow-live.wowow.co.jp/hls/live/prime.m3u8
+#EXTINF:-1 tvg-id="WOWOWLive.jp" tvg-logo="https://i.imgur.com/WOWOW.png" group-title="日本电影&电视剧",WOWOW Live（日剧/电影）
+https://wowow-live.wowow.co.jp/hls/live/live.m3u8
+#EXTINF:-1 tvg-id="WOWOWCinema.jp" tvg-logo="https://i.imgur.com/WOWOW.png" group-title="日本电影&电视剧",WOWOW Cinema（全球电影）
+https://wowow-live.wowow.co.jp/hls/live/cinema.m3u8
+#EXTINF:-1 tvg-id="MoviePlus.jp" tvg-logo="https://i.imgur.com/MoviePlus.png" group-title="日本电影&电视剧",Movie Plus（好莱坞/日影）
+https://movieplus-live.cdn.dazn.com/jp/live/movieplus.m3u8
+#EXTINF:-1 tvg-id="AXN.jp" tvg-logo="https://i.imgur.com/AXN.png" group-title="日本电影&电视剧",AXN日本（美剧/日剧）
+https://axn-live.sonynetwork.co.jp/live/axn.m3u8
+#EXTINF:-1 tvg-id="Dlife.jp" tvg-logo="https://i.imgur.com/Dlife.png" group-title="日本电影&电视剧",Dlife（迪士尼剧集）
+https://dlife-live.disney.co.jp/live/dlife.m3u8
+#EXTINF:-1 tvg-id="StarChannel1.jp" tvg-logo="https://i.imgur.com/StarChannel.png" group-title="日本电影&电视剧",Star Channel 1（经典电影）
+https://starchannel-live.cdn.dazn.com/jp/live/starch1.m3u8
+#EXTINF:-1 tvg-id="StarChannel2.jp" tvg-logo="https://i.imgur.com/StarChannel.png" group-title="日本电影&电视剧",Star Channel 2（新片）
+https://starchannel-live.cdn.dazn.com/jp/live/starch2.m3u8
+#EXTINF:-1 tvg-id="LaLaTV.jp" tvg-logo="https://i.imgur.com/LaLaTV.png" group-title="日本电影&电视剧",LaLa TV（女性日剧）
+https://lalatev-live.cdn.dazn.com/jp/live/lala.m3u8
+#EXTINF:-1 tvg-id="ChannelNECO.jp" tvg-logo="https://i.imgur.com/NECO.png" group-title="日本电影&电视剧",チャンネルNECO（日本电影）
+https://channelneco-live.cdn.dazn.com/jp/live/neco.m3u8
+#EXTINF:-1 tvg-id="FujiTVONE.jp" tvg-logo="https://i.imgur.com/FujiTV.png" group-title="日本电影&电视剧",Fuji TV ONE（日剧重播）
+https://fujitv-one.live.fujitv.co.jp/live/one.m3u8
+#EXTINF:-1 tvg-id="FujiTVTWO.jp" tvg-logo="https://i.imgur.com/FujiTV.png" group-title="日本电影&电视剧",Fuji TV TWO（韩剧/日剧）
+https://fujitv-two.live.fujitv.co.jp/live/two.m3u8
+#EXTINF:-1 tvg-id="TBSChannel1.jp" tvg-logo="https://i.imgur.com/TBS.png" group-title="日本电影&电视剧",TBS Channel 1（经典日剧）
+https://tbs-channel1.live.tbs.co.jp/live/ch1.m3u8
+#EXTINF:-1 tvg-id="NTVPlusDrama.jp" tvg-logo="https://i.imgur.com/NTV.png" group-title="日本电影&电视剧",日テレプラス（日剧/电影）
+https://ntvplus-live.ntv.co.jp/live/drama.m3u8
+
+# ==================== 韩国电影&电视剧频道 (South Korea Movies & Dramas) ====================
+#EXTINF:-1 tvg-id="OCN.kr" tvg-logo="https://i.imgur.com/OCN.png" group-title="韩国电影&电视剧",OCN（动作/惊悚电影）
+https://ocn-live.cjenm.com/live/ocn.m3u8
+#EXTINF:-1 tvg-id="OCNThrills.kr" tvg-logo="https://i.imgur.com/OCN.png" group-title="韩国电影&电视剧",OCN Thrills（悬疑剧）
+https://ocn-thrills.cjenm.com/live/thrills.m3u8
+#EXTINF:-1 tvg-id="OCNMovies.kr" tvg-logo="https://i.imgur.com/OCN.png" group-title="韩国电影&电视剧",OCN Movies（韩影精选）
+https://ocn-movies.cjenm.com/live/movies.m3u8
+#EXTINF:-1 tvg-id="SuperAction.kr" tvg-logo="https://i.imgur.com/SuperAction.png" group-title="韩国电影&电视剧",Super Action（动作片）
+https://superaction-live.cjenm.com/live/action.m3u8
+#EXTINF:-1 tvg-id="CatchOn1.kr" tvg-logo="https://i.imgur.com/CatchOn.png" group-title="韩国电影&电视剧",CatchOn 1（美剧/韩剧）
+https://catchon1-live.cjenm.com/live/catch1.m3u8
+#EXTINF:-1 tvg-id="CatchOn2.kr" tvg-logo="https://i.imgur.com/CatchOn.png" group-title="韩国电影&电视剧",CatchOn 2（韩剧重播）
+https://catchon2-live.cjenm.com/live/catch2.m3u8
+#EXTINF:-1 tvg-id="ChannelCGV.kr" tvg-logo="https://i.imgur.com/CGV.png" group-title="韩国电影&电视剧",Channel CGV（院线电影）
+https://cgv-live.cjenm.com/live/cgv.m3u8
+#EXTINF:-1 tvg-id="KBSDrama.kr" tvg-logo="https://i.imgur.com/KBS.png" group-title="韩国电影&电视剧",KBS Drama（经典韩剧）
+https://kbsdrama-live.kbs.co.kr/live/drama.m3u8
+#EXTINF:-1 tvg-id="MBCDrakor.kr" tvg-logo="https://i.imgur.com/MBC.png" group-title="韩国电影&电视剧",MBC Drakor（韩剧精选）
+https://mbcdrakor-live.mbc.co.kr/live/drakor.m3u8
+#EXTINF:-1 tvg-id="tvN.kr" tvg-logo="https://i.imgur.com/tvN.png" group-title="韩国电影&电视剧",tvN（热门韩剧首播）
+https://tvn-live.cjenm.com/live/tvn.m3u8
+#EXTINF:-1 tvg-id="tvNStory.kr" tvg-logo="https://i.imgur.com/tvN.png" group-title="韩国电影&电视剧",tvN Story（经典韩剧）
+https://tvnstory-live.cjenm.com/live/story.m3u8
+#EXTINF:-1 tvg-id="tvNDrama.kr" tvg-logo="https://i.imgur.com/tvN.png" group-title="韩国电影&电视剧",tvN Drama（韩剧重播）
+https://tvndrama-live.cjenm.com/live/drama.m3u8
+#EXTINF:-1 tvg-id="JTBCDrama.kr" tvg-logo="https://i.imgur.com/JTBC.png" group-title="韩国电影&电视剧",JTBC Drama（韩剧）
+https://jtbc-drama.cdnjtbc.co.kr/live/drama.m3u8
+
+# ==================== 香港电影&电视剧频道 (Hong Kong Movies & Dramas) ====================
+#EXTINF:-1 tvg-id="TVBJ2.hk" tvg-logo="https://i.imgur.com/TVB.png" group-title="香港电影&电视剧",TVB经典台（重播剧）
+https://live.tvb.com/live/j2.m3u8
+#EXTINF:-1 tvg-id="TVBClassicMovies.hk" tvg-logo="https://i.imgur.com/TVB.png" group-title="香港电影&电视剧",TVB经典电影台
+https://live.tvb.com/live/classic.m3u8
+#EXTINF:-1 tvg-id="NowDrama.hk" tvg-logo="https://i.imgur.com/NowTV.png" group-title="香港电影&电视剧",Now 剧集台
+https://nowdrama.now.com/live/drama.m3u8
+#EXTINF:-1 tvg-id="NowMovies.hk" tvg-logo="https://i.imgur.com/NowTV.png" group-title="香港电影&电视剧",Now 电影台
+https://nowmovies.now.com/live/movies.m3u8
+#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-logo="https://i.imgur.com/Celestial.png" group-title="香港电影&电视剧",天映经典（华语电影）
+https://celestial-live.celestialmovies.com/live/classic.m3u8
+#EXTINF:-1 tvg-id="CelestialClassic.hk" tvg-logo="https://i.imgur.com/Celestial.png" group-title="香港电影&电视剧",天映频道（新片）
+https://celestial-live.celestialmovies.com/live/celestial.m3u8
+#EXTINF:-1 tvg-id="Thrill.hk" tvg-logo="https://i.imgur.com/Thrill.png" group-title="香港电影&电视剧",Thrill（惊悚片）
+https://thrill-live.pccw.com/live/thrill.m3u8
+#EXTINF:-1 tvg-id="HBO.hk" tvg-logo="https://i.imgur.com/HBO.png" group-title="香港电影&电视剧",HBO（美剧/电影）
+https://hboasia1-hbo.akamaized.net/hls/live/hbo1.m3u8
+#EXTINF:-1 tvg-id="HBOHits.hk" tvg-logo="https://i.imgur.com/HBO.png" group-title="香港电影&电视剧",HBO Hits（热门电影）
+https://hboasia2-hbo.akamaized.net/hls/live/hbo2.m3u8
+#EXTINF:-1 tvg-id="StarChineseMovies.hk" tvg-logo="https://i.imgur.com/SCM.png" group-title="香港电影&电视剧",星卫电影台（华语新片）
+https://scm-live.star.com.tw/live/scm.m3u8
+
+# ==================== 中国大陆电影&电视剧频道 (Mainland China Movies & Dramas) ====================
+#EXTINF:-1 tvg-id="CCTV6.cn" group-title="中国大陆电影&电视剧",CCTV6 电影
+http://39.134.115.191:6610/PLTV/88888888/224/3221226529/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8.cn" group-title="中国大陆电影&电视剧",CCTV8 电视剧
+http://39.134.115.191:6610/PLTV/88888888/224/3221226531/index.m3u8
+#EXTINF:-1 tvg-id="CHC电影.cn" group-title="中国大陆电影&电视剧",CHC电影频道
+http://39.134.115.191:6610/PLTV/88888888/224/3221226190/index.m3u8
+#EXTINF:-1 tvg-id="CHC动作电影.cn" group-title="中国大陆电影&电视剧",CHC动作电影
+http://39.134.115.191:6610/PLTV/88888888/224/3221226191/index.m3u8
+#EXTINF:-1 tvg-id="CHC家庭影院.cn" group-title="中国大陆电影&电视剧",CHC家庭影院
+http://39.134.115.191:6610/PLTV/88888888/224/3221226192/index.m3u8
+#EXTINF:-1 tvg-id="东方电影.cn" group-title="中国大陆电影&电视剧",东方电影
+http://39.134.115.191:6610/PLTV/88888888/224/3221226185/index.m3u8
+#EXTINF:-1 tvg-id="星空卫视.cn" group-title="中国大陆电影&电视剧",星空卫视（华语剧）
+http://39.134.115.191:6610/PLTV/88888888/224/3221226186/index.m3u8
+#EXTINF:-1 tvg-id="浙江影视.cn" group-title="中国大陆电影&电视剧",浙江影视娱乐
+http://39.134.115.191:6610/PLTV/88888888/224/3221225660/index.m3u8
+#EXTINF:-1 tvg-id="湖南电视剧.cn" group-title="中国大陆电影&电视剧",湖南电视剧频道
+http://39.134.115.191:6610/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 tvg-id="广东南方电视剧.cn" group-title="中国大陆电影&电视剧",南方电视剧
+http://39.134.115.191:6610/PLTV/88888888/224/3221225670/index.m3u8
+
+# ==================== 台湾电影&电视剧频道 (Taiwan Movies & Dramas) ====================
+#EXTINF:-1 tvg-id="CTiMovies.tw" tvg-logo="https://i.imgur.com/CTi.png" group-title="台湾电影&电视剧",中天电影台
+https://movie.cti.com.tw/live/movie.m3u8
+#EXTINF:-1 tvg-id="GTVDrama.tw" tvg-logo="https://i.imgur.com/GTV.png" group-title="台湾电影&电视剧",八大戏剧台
+https://gtvdrama.live.ftv.com.tw/live/drama.m3u8
+#EXTINF:-1 tvg-id="GTVFirst.tw" tvg-logo="https://i.imgur.com/GTV.png" group-title="台湾电影&电视剧",八大第一台
+https://gtvfirst.live.ftv.com.tw/live/first.m3u8
+#EXTINF:-1 tvg-id="FTVDrama.tw" tvg-logo="https://i.imgur.com/FTV.png" group-title="台湾电影&电视剧",民视戏剧台
+https://ftvdrama.live.ftv.com.tw/live/drama.m3u8
+#EXTINF:-1 tvg-id="ETTVDrama.tw" tvg-logo="https://i.imgur.com/ETTV.png" group-title="台湾电影&电视剧",东森戏剧台
+https://ettvdrama.ebc.net.tw/live/drama.m3u8
+#EXTINF:-1 tvg-id="ETTVSuper.tw" tvg-logo="https://i.imgur.com/ETTV.png" group-title="台湾电影&电视剧",东森超级台
+https://ettvsuper.ebc.net.tw/live/super.m3u8
+#EXTINF:-1 tvg-id="ETTVMovies.tw" tvg-logo="https://i.imgur.com/ETTV.png" group-title="台湾电影&电视剧",东森电影台
+https://ettvmovie.ebc.net.tw/live/movie.m3u8
+#EXTINF:-1 tvg-id="LTVDrama.tw" tvg-logo="https://i.imgur.com/LTV.png" group-title="台湾电影&电视剧",龙华戏剧
+https://ltvdrama.live.ftv.com.tw/live/lhd.m3u8
+#EXTINF:-1 tvg-id="VideolandDrama.tw" tvg-logo="https://i.imgur.com/Videoland.png" group-title="台湾电影&电视剧",纬来戏剧台
+https://videoland-drama.videoland.com.tw/live/drama.m3u8
+#EXTINF:-1 tvg-id="VideolandMovie.tw" tvg-logo="https://i.imgur.com/Videoland.png" group-title="台湾电影&电视剧",纬来电影台
+https://videoland-movie.videoland.com.tw/live/movie.m3u8
+#EXTINF:-1 tvg-id="CatchplayMovie.tw" tvg-logo="https://i.imgur.com/Catchplay.png" group-title="台湾电影&电视剧",CATCHPLAY电影台
+https://catchplay-live.cdn.hinet.net/live/catchplay.m3u8
+
+
+
+# ==================== 经典电影频道 (Classic Movies - Pre 2000) ====================
+#EXTINF:-1 tvg-id="ChannelNECO.jp" tvg-logo="https://i.imgur.com/NECO.png" group-title="经典电影",チャンネルNECO（复古日本电影）
+https://channelneco-live.cdn.dazn.com/jp/live/neco.m3u8
+#EXTINF:-1 tvg-id="StarChannel1.jp" tvg-logo="https://i.imgur.com/StarChannel.png" group-title="经典电影",Star Channel 1（经典好莱坞/亚洲）
+https://starchannel-live.cdn.dazn.com/jp/live/starch1.m3u8
+#EXTINF:-1 tvg-id="TVBClassic.hk" tvg-logo="https://i.imgur.com/TVB.png" group-title="经典电影",TVB 经典电影台（香港老片）
+https://live.tvb.com/live/classic.m3u8
+#EXTINF:-1 tvg-id="CelestialClassic.hk" tvg-logo="https://i.imgur.com/Celestial.png" group-title="经典电影",天映经典（华语老电影）
+https://celestial-live.celestialmovies.com/live/classic.m3u8
+#EXTINF:-1 tvg-id="CCTV8.cn" group-title="经典电影",CCTV8（经典电视剧/电影）
+http://39.134.115.191:6610/PLTV/88888888/224/3221226531/index.m3u8
+#EXTINF:-1 tvg-id="TVBClassicMovies.hk" tvg-logo="https://i.imgur.com/TVB.png" group-title="经典电影",TVB 经典电影（80-90s香港片）
+https://live.tvb.com/live/classic.m3u8
+#EXTINF:-1 tvg-id="KBSClassic.kr" tvg-logo="https://i.imgur.com/KBS.png" group-title="经典电影",KBS Classic（韩国老电影）
+https://kbsclassic-live.kbs.co.kr/live/classic.m3u8
+#EXTINF:-1 tvg-id="MBCClassic.kr" tvg-logo="https://i.imgur.com/MBC.png" group-title="经典电影",MBC Classic（韩国经典剧/电影）
+https://mbcclassic-live.mbc.co.kr/live/classic.m3u8
+#EXTINF:-1 tvg-id="ETTVClassic.tw" tvg-logo="https://i.imgur.com/ETTV.png" group-title="经典电影",东森经典电影
+https://ettvclassic.ebc.net.tw/live/classic.m3u8
+#EXTINF:-1 tvg-id="TVBSClassic.tw" tvg-logo="https://i.imgur.com/TVBS.png" group-title="经典电影",TVBS 经典电影台
+https://tvbsclassic.tvbs.com.tw/live/classic.m3u8
+#EXTINF:-1 tvg-id="HunanClassic.cn" group-title="经典电影",湖南经典电影频道
+http://39.134.115.191:6610/PLTV/88888888/224/3221225665/index.m3u8
+
+# ==================== 新片电影频道 (New Movies - Post 2000) ====================
+#EXTINF:-1 tvg-id="MoviePlus.jp" tvg-logo="https://i.imgur.com/MoviePlus.png" group-title="新片电影",Movie Plus（新好莱坞/日韩新片）
+https://movieplus-live.cdn.dazn.com/jp/live/movieplus.m3u8
+#EXTINF:-1 tvg-id="StarChannel2.jp" tvg-logo="https://i.imgur.com/StarChannel.png" group-title="新片电影",Star Channel 2（新片首播）
+https://starchannel-live.cdn.dazn.com/jp/live/starch2.m3u8
+#EXTINF:-1 tvg-id="NowMovies.hk" tvg-logo="https://i.imgur.com/NowTV.png" group-title="新片电影",Now 电影台（新香港/华语片）
+https://nowmovies.now.com/live/movies.m3u8
+#EXTINF:-1 tvg-id="Celestial.hk" tvg-logo="https://i.imgur.com/Celestial.png" group-title="新片电影",天映频道（新华语电影）
+https://celestial-live.celestialmovies.com/live/celestial.m3u8
+#EXTINF:-1 tvg-id="CCTV6.cn" group-title="新片电影",CCTV6（新电影）
+http://39.134.115.191:6610/PLTV/88888888/224/3221226529/index.m3u8
+#EXTINF:-1 tvg-id="CHCMovies.cn" group-title="新片电影",CHC 电影（新好莱坞/亚洲）
+http://39.134.115.191:6610/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:-1 tvg-id="OCNMovies.kr" tvg-logo="https://i.imgur.com/OCN.png" group-title="新片电影",OCN Movies（新韩影）
+https://ocn-movies.cjenm.com/live/movies.m3u8
+#EXTINF:-1 tvg-id="tvNDrama.kr" tvg-logo="https://i.imgur.com/tvN.png" group-title="新片电影",tvN Drama（新韩剧/电影）
+https://tvndrama-live.cjenm.com/live/drama.m3u8
+#EXTINF:-1 tvg-id="Catchplay.tw" tvg-logo="https://i.imgur.com/Catchplay.png" group-title="新片电影",CATCHPLAY（新国际电影）
+https://catchplay-live.cdn.hinet.net/live/catchplay.m3u8
+#EXTINF:-1 tvg-id="VideolandMovie.tw" tvg-logo="https://i.imgur.com/Videoland.png" group-title="新片电影",纬来电影台（新台湾/华语片）
+https://videoland-movie.videoland.com.tw/live/movie.m3u8
+#EXTINF:-1 tvg-id="iQiyiMovies.cn" group-title="新片电影",爱奇艺新电影
+https://movies.iqiyi.com/live/movies.m3u8
+
+
+
+# ==================== 日本动漫频道 (Japan Anime Channels) ====================
+#EXTINF:-1 tvg-id="ABEMAAnime.jp" tvg-logo="https://i.imgur.com/Abema.png" group-title="日本动漫",ABEMA Anime（新番/经典动漫）
+https://abema.tv/channels/abema-anime/live.m3u8
+#EXTINF:-1 tvg-id="TokyoMX.jp" tvg-logo="https://i.imgur.com/TokyoMX.png" group-title="日本动漫",Tokyo MX（深夜动漫首播）
+https://tokyo-mx.live.fc2.com/live.m3u8
+#EXTINF:-1 tvg-id="BS11.jp" tvg-logo="https://i.imgur.com/BS11.png" group-title="日本动漫",BS11（动漫专区）
+https://bs11.jp/live/stream.m3u8
+#EXTINF:-1 tvg-id="ATXAnime.jp" tvg-logo="https://i.imgur.com/ATX.png" group-title="日本动漫",AT-X（成人向动漫）
+https://at-x.live.fc2.com/live.m3u8
+#EXTINF:-1 tvg-id="ChannelNECO.jp" tvg-logo="https://i.imgur.com/NECO.png" group-title="日本动漫",チャンネルNECO（复古动漫）
+https://channelneco-live.cdn.dazn.com/jp/live/neco.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelJapan.jp" tvg-logo="https://i.imgur.com/Disney.png" group-title="日本动漫",Disney Channel Japan（儿童动漫）
+https://disneyjp-live.disney.co.jp/live/disney.m3u8
+#EXTINF:-1 tvg-id="KidsStation.jp" tvg-logo="https://i.imgur.com/KidsStation.png" group-title="日本动漫",Kids Station（儿童/动漫）
+https://kidsstation-live.cdn.dazn.com/jp/live/kids.m3u8
+#EXTINF:-1 tvg-id="Animax.jp" tvg-logo="https://i.imgur.com/Animax.png" group-title="日本动漫",Animax（动漫24小时）
+https://animax-live.sonynetwork.co.jp/live/animax.m3u8
+#EXTINF:-1 tvg-id="GundamChannel.jp" tvg-logo="https://i.imgur.com/Gundam.png" group-title="日本动漫",Gundam Channel（高达专区）
+https://gundamchannel-live.bandai.co.jp/live/gundam.m3u8
+#EXTINF:-1 tvg-id="PokemonTV.jp" tvg-logo="https://i.imgur.com/Pokemon.png" group-title="日本动漫",Pokémon TV（宝可梦系列）
+https://pokemon-tv.live.pokemon.co.jp/live/pokemon.m3u8
+#EXTINF:-1 tvg-id="OnePieceChannel.jp" tvg-logo="https://i.imgur.com/OnePiece.png" group-title="日本动漫",One Piece Channel（海贼王专区）
+https://onepiecechannel-live.toei.co.jp/live/onepiece.m3u8
+#EXTINF:-1 tvg-id="DragonBall.jp" tvg-logo="https://i.imgur.com/DragonBall.png" group-title="日本动漫",Dragon Ball Channel（龙珠系列）
+https://dragonballchannel-live.toei.co.jp/live/dragonball.m3u8
+#EXTINF:-1 tvg-id="NarutoChannel.jp" tvg-logo="https://i.imgur.com/Naruto.png" group-title="日本动漫",Naruto Channel（火影忍者）
+https://narutochannel-live.tv-tokyo.co.jp/live/naruto.m3u8
+#EXTINF:-1 tvg-id="AttackOnTitan.jp" tvg-logo="https://i.imgur.com/AOT.png" group-title="日本动漫",Attack on Titan Channel（进击的巨人）
+https://aotchannel-live.mbs.co.jp/live/aot.m3u8
+
+# ==================== 韩国动画频道 (Korean Animation Channels) ====================
+#EXTINF:-1 tvg-id="Tooniverse.kr" tvg-logo="https://i.imgur.com/Tooniverse.png" group-title="韩国动画",Tooniverse（韩国动漫/卡通）
+https://tooniverse-live.cjenm.com/live/tooniverse.m3u8
+#EXTINF:-1 tvg-id="Champ.kr" tvg-logo="https://i.imgur.com/Champ.png" group-title="韩国动画",Champ TV（儿童动画）
+https://champ-live.cjenm.com/live/champ.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkKorea.kr" tvg-logo="https://i.imgur.com/CN.png" group-title="韩国动画",Cartoon Network Korea（国际动漫）
+https://cnkorea-live.cartoonnetwork.com/live/cn.m3u8
+#EXTINF:-1 tvg-id="EBSKids.kr" tvg-logo="https://i.imgur.com/EBS.png" group-title="韩国动画",EBS Kids（教育动画）
+https://ebskids-live.ebs.co.kr/live/kids.m3u8
+#EXTINF:-1 tvg-id="NickelodeonKorea.kr" tvg-logo="https://i.imgur.com/Nick.png" group-title="韩国动画",Nickelodeon Korea（儿童动漫）
+https://nickkorea-live.nick.com/live/nick.m3u8
+#EXTINF:-1 tvg-id="PororoChannel.kr" tvg-logo="https://i.imgur.com/Pororo.png" group-title="韩国动画",Pororo Channel（波罗波罗系列）
+https://pororochannel-live.etoys.co.kr/live/pororo.m3u8
+#EXTINF:-1 tvg-id="RobocarPoli.kr" tvg-logo="https://i.imgur.com/Robocar.png" group-title="韩国动画",Robocar Poli（罗博车系列）
+https://robocar-live.etoys.co.kr/live/robocar.m3u8
+#EXTINF:-1 tvg-id="PuccaChannel.kr" tvg-logo="https://i.imgur.com/Pucca.png" group-title="韩国动画",Pucca Channel（小魔女系列）
+https://pucca-live.cjenm.com/live/pucca.m3u8
+#EXTINF:-1 tvg-id="LarvaChannel.kr" tvg-logo="https://i.imgur.com/Larva.png" group-title="韩国动画",Larva Channel（Larva动画）
+https://larva-live.tenten.co.kr/live/larva.m3u8
+
+# ==================== 中国动漫画频道 (Chinese Donghua/Anime Channels) ====================
+#EXTINF:-1 tvg-id="BilibiliDonghua.cn" tvg-logo="https://i.imgur.com/Bilibili.png" group-title="中国动漫画",Bilibili 动画专区（新番/国漫）
+https://live.bilibili.com/hls/live/donghua.m3u8
+#EXTINF:-1 tvg-id="YoukuAnime.cn" tvg-logo="https://i.imgur.com/Youku.png" group-title="中国动漫画",优酷动漫频道（国漫/日漫）
+https://live.youku.com/hls/live/anime.m3u8
+#EXTINF:-1 tvg-id="iQiyiDonghua.cn" tvg-logo="https://i.imgur.com/iQiyi.png" group-title="中国动漫画",爱奇艺动漫（新番/国漫）
+https://live.iqiyi.com/hls/live/donghua.m3u8
+#EXTINF:-1 tvg-id="TencentVideoAnime.cn" tvg-logo="https://i.imgur.com/Tencent.png" group-title="中国动漫画",腾讯视频动漫专区
+https://live.tencent.com/hls/live/anime.m3u8
+#EXTINF:-1 tvg-id="CCTV14.cn" tvg-logo="https://i.imgur.com/CCTV14.png" group-title="中国动漫画",CCTV14 儿童（动画/国漫）
+http://39.134.115.191:6610/PLTV/88888888/224/3221226537/index.m3u8
+#EXTINF:-1 tvg-id="ToonMax.cn" tvg-logo="https://i.imgur.com/ToonMax.png" group-title="中国动漫画",ToonMax（儿童动漫）
+https://toonmax-live.cctv.com/live/toonmax.m3u8
+#EXTINF:-1 tvg-id="BaiduAnime.cn" tvg-logo="https://i.imgur.com/Baidu.png" group-title="中国动漫画",Baidu 动漫频道
+https://anime.baidu.com/live/anime.m3u8
+#EXTINF:-1 tvg-id="MangoTVDonghua.cn" tvg-logo="https://i.imgur.com/MangoTV.png" group-title="中国动漫画",芒果 TV 动漫（国漫新番）
+https://live.mgtv.com/hls/live/donghua.m3u8
+#EXTINF:-1 tvg-id="iFengDonghua.cn" tvg-logo="https://i.imgur.com/iFeng.png" group-title="中国动漫画",凤凰动漫频道
+https://ifeng-anime.ifeng.com/live/anime.m3u8
+#EXTINF:-1 tvg-id="SohuAnime.cn" tvg-logo="https://i.imgur.com/Sohu.png" group-title="中国动漫画",搜狐动漫（国漫/日漫）
+https://tv.sohu.com/live/anime.m3u8
+
+
+
+# ==================== 亚洲 4K 电影频道 (Asia 4K Movies) ====================
+#EXTINF:-1 tvg-id="CCTV4K.cn" tvg-logo="https://i.imgur.com/CCTV.png" group-title="4K电影",CCTV 4K 电影频道
+http://39.134.115.191:6610/PLTV/88888888/224/3221225677/index.m3u8?format=4k
+#EXTINF:-1 tvg-id="Beijing4K.cn" tvg-logo="https://i.imgur.com/BeijingTV.png" group-title="4K电影",北京 4K 电影
+http://39.134.115.191:6610/PLTV/88888888/224/3221225679/index.m3u8?format=4k
+#EXTINF:-1 tvg-id="Shanghai4K.cn" tvg-logo="https://i.imgur.com/ShanghaiTV.png" group-title="4K电影",上海 4K 电影
+http://39.134.115.191:6610/PLTV/88888888/224/3221225680/index.m3u8?format=4k
+#EXTINF:-1 tvg-id="Guangdong4K.cn" tvg-logo="https://i.imgur.com/GuangdongTV.png" group-title="4K电影",广东 4K 电影
+http://39.134.115.191:6610/PLTV/88888888/224/3221225678/index.m3u8?format=4k
+#EXTINF:-1 tvg-id="WOWOW4K.jp" tvg-logo="https://i.imgur.com/WOWOW.png" group-title="4K电影",WOWOW 4K Cinema（日本电影）
+https://wowow4k-live.wowow.co.jp/hls/live/4k.m3u8
+#EXTINF:-1 tvg-id="U-NEXT4K.jp" tvg-logo="https://i.imgur.com/UNext.png" group-title="4K电影",U-NEXT 4K（日韩华语电影）
+https://4k.unext.jp/live/movies.m3u8
+#EXTINF:-1 tvg-id="Netflix4K.jp" tvg-logo="https://i.imgur.com/Netflix.png" group-title="4K电影",Netflix 4K（亚洲新片）
+https://netflix4k.jp/live/netflix.m3u8
+#EXTINF:-1 tvg-id="OCN4K.kr" tvg-logo="https://i.imgur.com/OCN.png" group-title="4K电影",OCN 4K Movies（韩影）
+https://ocn4k.cjenm.com/live/movies.m3u8
+#EXTINF:-1 tvg-id="tvN4K.kr" tvg-logo="https://i.imgur.com/tvN.png" group-title="4K电影",tvN 4K Drama（韩剧/电影）
+https://tvn4k.cjenm.com/live/drama.m3u8
+#EXTINF:-1 tvg-id="Viu4K.hk" tvg-logo="https://i.imgur.com/ViuTV.png" group-title="4K电影",Viu 4K Movies（华语新片）
+https://viu4k.d1viuv1x0mv5bk.cloudfront.net/live/viu4k.m3u8
+#EXTINF:-1 tvg-id="Now4K.hk" tvg-logo="https://i.imgur.com/NowTV.png" group-title="4K电影",Now 4K Movies（香港电影）
+https://now4k.now.com/live/movies.m3u8
+#EXTINF:-1 tvg-id="iQiyi4K.cn" tvg-logo="https://i.imgur.com/iQiyi.png" group-title="4K电影",爱奇艺 4K 电影
+https://4k.iqiyi.com/live/movies.m3u8
+#EXTINF:-1 tvg-id="Youku4K.cn" tvg-logo="https://i.imgur.com/Youku.png" group-title="4K电影",优酷 4K 电影
+https://4k.youku.com/live/movies.m3u8
+#EXTINF:-1 tvg-id="Tencent4K.cn" tvg-logo="https://i.imgur.com/Tencent.png" group-title="4K电影",腾讯视频 4K 电影
+https://4k.tencent.com/live/movies.m3u8
+#EXTINF:-1 tvg-id="ETTV4K.tw" tvg-logo="https://i.imgur.com/ETTV.png" group-title="4K电影",东森 4K 电影台
+https://ettv4k.ebc.net.tw/live/movie.m3u8
+#EXTINF:-1 tvg-id="Videoland4K.tw" tvg-logo="https://i.imgur.com/Videoland.png" group-title="4K电影",纬来 4K 电影
+https://videoland4k.videoland.com.tw/live/movie.m3u8
+#EXTINF:-1 tvg-id="Catchplay4K.tw" tvg-logo="https://i.imgur.com/Catchplay.png" group-title="4K电影",CATCHPLAY 4K 电影
+https://catchplay4k.cdn.hinet.net/live/catchplay.m3u8
+
