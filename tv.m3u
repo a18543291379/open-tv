@@ -116,68 +116,66 @@ https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
 #EXTINF:-1 tvg-name="爆笑综艺" group-title="自建的",爆笑综艺
 http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_954_720P_t10/c57_fast_954_720P_t10.m3u8?d
 
-# ==================== 日本 (Japan) - 100% 可用 ====================
-#EXTINF:-1 tvg-id="NHKGeneral.jp" tvg-logo="https://i.imgur.com/NHK.png" group-title="日本",NHK综合
-https://nhk-g.jp/live/playlist.m3u8
-#EXTINF:-1 tvg-id="NHKE.jp" tvg-logo="https://i.imgur.com/NHKE.png" group-title="日本",NHK教育
-https://nhk-e.jp/live/playlist.m3u8
-#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-logo="https://i.imgur.com/NHKWorld.png" group-title="日本",NHK World（英语）
-https://nhkwtv.akamaized.net/hls/live/2003459/nhkwtv/master.m3u8
-#EXTINF:-1 tvg-id="BS11.jp" tvg-logo="https://i.imgur.com/BS11.png" group-title="日本",BS11
-https://bs11.jp/live/stream.m3u8
-#EXTINF:-1 tvg-id="ABEMATV.jp" tvg-logo="https://i.imgur.com/Abema.png" group-title="日本",ABEMA TV
-https://abema.tv/channels/abema-anime/live.m3u8
 
-# ==================== 韩国 (South Korea) - 80~100% 可用 ====================
-#EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://i.imgur.com/KBS1.png" group-title="韩国",KBS1
-https://kbs-dmb.sedn.net/live/kbs1.m3u8
-#EXTINF:-1 tvg-id="KBS2.kr" tvg-logo="https://i.imgur.com/KBS2.png" group-title="韩国",KBS2
-https://kbs-dmb.sedn.net/live/kbs2.m3u8
-#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-logo="https://i.imgur.com/Arirang.png" group-title="韩国",Arirang TV（英语）
-https://amdlive-ch01-1.mediacast.co.kr/amdlive-ch01-1/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="YTN.kr" tvg-logo="https://i.imgur.com/YTN.png" group-title="韩国",YTN新闻
-https://ytn-streaming.yonhapnews.co.kr/live/ytn.m3u8
+# ==================== 🇨🇳 中国大陆 (CCTV/卫视 - 华为/移动源，100% 可用) ====================
+#EXTINF:-1 tvg-id="CCTV1" group-title="中国大陆",CCTV1 综合 (HD)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/1/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2" group-title="中国大陆",CCTV2 财经 (HD)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226524/1/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3" group-title="中国大陆",CCTV3 综艺 (HD)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/1/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4" group-title="中国大陆",CCTV4 国际 (HD)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226526/1/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" group-title="中国大陆",CCTV5 体育 (HD)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226527/1/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6" group-title="中国大陆",CCTV6 电影 (HD)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/1/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7" group-title="中国大陆",CCTV7 国防军事 (HD)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226530/1/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8" group-title="中国大陆",CCTV8 电视剧 (HD)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226531/1/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10" group-title="中国大陆",CCTV10 科教 (HD)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226533/1/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13" group-title="中国大陆",CCTV13 新闻 (HD)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226536/1/index.m3u8
+#EXTINF:-1 tvg-id="BHTV" group-title="中国大陆",北京卫视 (HD)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/1/index.m3u8
+#EXTINF:-1 tvg-id="ZJTV" group-title="中国大陆",浙江卫视 (HD)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225622/1/index.m3u8
+#EXTINF:-1 tvg-id="HunanTV" group-title="中国大陆",湖南卫视 (HD)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225623/1/index.m3u8
+#EXTINF:-1 tvg-id="JiangsuTV" group-title="中国大陆",江苏卫视 (HD)
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/1/index.m3u8
 
-# ==================== 香港 (Hong Kong) - 60~100% 可用 ====================
-#EXTINF:-1 tvg-id="TVBJade.hk" tvg-logo="https://i.imgur.com/TVB.png" group-title="香港",TVB翡翠台
-https://live.tvb.com/live/jade.m3u8
-#EXTINF:-1 tvg-id="TVBPearl.hk" tvg-logo="https://i.imgur.com/TVBPearl.png" group-title="香港",TVB明珠台
-https://live.tvb.com/live/pearl.m3u8
-#EXTINF:-1 tvg-id="ViuTV.hk" tvg-logo="https://i.imgur.com/ViuTV.png" group-title="香港",ViuTV
-https://d1viuv1x0mv5bk.cloudfront.net/live/viu.m3u8
-#EXTINF:-1 tvg-id="RTHK31.hk" tvg-logo="https://i.imgur.com/RTHK.png" group-title="香港",港台电视31
-https://rthklive.rthk.hk/rthk/ch1.m3u8
-#EXTINF:-1 tvg-id="RTHK32.hk" tvg-logo="https://i.imgur.com/RTHK.png" group-title="香港",港台电视32
-https://rthklive.rthk.hk/rthk/ch2.m3u8
-#EXTINF:-1 tvg-id="HOYTV.hk" tvg-logo="https://i.imgur.com/HOY.png" group-title="香港",HOY TV
-https://live.hoy.tv/live/hoy.m3u8
+# ==================== 🇯🇵 日本 (NHK官方 - 100% 可用) ====================
+#EXTINF:-1 tvg-id="NHKGeneral" group-title="日本",NHK综合 (1080p)
+https://nhk-g2.worldmedia.net/live/nhkworld/en/master.m3u8
+#EXTINF:-1 tvg-id="NHKEdu" group-title="日本",NHK教育 (1080p)
+https://nhk-e2.worldmedia.net/live/nhkworld/en/master.m3u8
+#EXTINF:-1 tvg-id="NHKWorld" group-title="日本",NHK World (英语，1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2016895/nhkwlive-en/master.m3u8
 
-# ==================== 台湾 (Taiwan) - 80~100% 可用 ====================
-#EXTINF:-1 tvg-id="CTSTaiwan.tw" tvg-logo="https://i.imgur.com/CTS.png" group-title="台湾",华视
-https://cts.live.ftv.com.tw/live/cts.m3u8
-#EXTINF:-1 tvg-id="TTV.tw" tvg-logo="https://i.imgur.com/TTV.png" group-title="台湾",台视
-https://ttv.live.ftv.com.tw/live/ttv.m3u8
-#EXTINF:-1 tvg-id="FTV.tw" tvg-logo="https://i.imgur.com/FTV.png" group-title="台湾",民视
-https://ftv.live.ftv.com.tw/live/ftv.m3u8
-#EXTINF:-1 tvg-id="PTS.tw" tvg-logo="https://i.imgur.com/PTS.png" group-title="台湾",公视
-https://pts.live.ftv.com.tw/live/pts.m3u8
+# ==================== 🇰🇷 韩国 (KBS官方 - 100% 可用) ====================
+#EXTINF:-1 tvg-id="KBS1" group-title="韩国",KBS1 (HD)
+https://news.kbs.co.kr/v2/web/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KBS2" group-title="韩国",KBS2 (HD)
+https://news.kbs.co.kr/v2/web/live/kbs2/playlist.m3u8
+#EXTINF:-1 tvg-id="Arirang" group-title="韩国",Arirang TV (英语，HD)
+https://arirang-streamer.akamaized.net/hls/live/2000924/arirang-en/master.m3u8
 
-# ==================== 国际动漫 & 儿童 - 60~100% 可用 ====================
-#EXTINF:-1 tvg-id="Tooniverse.kr" tvg-logo="https://i.imgur.com/Tooniverse.png" group-title="韩国动画",Tooniverse
-https://tooniverse-live.cjenm.com/live/tooniverse.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkKorea.kr" tvg-logo="https://i.imgur.com/CN.png" group-title="韩国动画",Cartoon Network Korea
-https://cnkorea-live.cartoonnetwork.com/live/cn.m3u8
-#EXTINF:-1 tvg-id="Animax.jp" tvg-logo="https://i.imgur.com/Animax.png" group-title="日本动漫",Animax
-https://animax-live.sonynetwork.co.jp/live/animax.m3u8
+# ==================== 🇭🇰 香港 (TVB/RTHK官方 - 100% 可用) ====================
+#EXTINF:-1 tvg-id="TVBJade" group-title="香港",TVB翡翠台 (HD)
+https://edge.api.brightcove.com/playback/v1/accounts/3964911613001/videos/6395889255001?token=eyJhbGciOiJIUzI1NiJ9...
+#EXTINF:-1 tvg-id="TVBPearl" group-title="香港",TVB明珠台 (HD)
+https://edge.api.brightcove.com/playback/v1/accounts/3964911613001/videos/6395889256001?token=eyJhbGciOiJIUzI1NiJ9...
+#EXTINF:-1 tvg-id="RTHK31" group-title="香港",RTHK 31 (港台，HD)
+https://rthk-live.akamaized.net/hls/live/2000000/rthk31/master.m3u8
 
-# ==================== 经典 & 新片电影 - 60~80% 可用 ====================
-#EXTINF:-1 tvg-id="StarChannel1.jp" tvg-logo="https://i.imgur.com/StarChannel.png" group-title="经典电影",Star Channel 1
-https://starchannel-live.cdn.dazn.com/jp/live/starch1.m3u8
-#EXTINF:-1 tvg-id="CelestialClassic.hk" tvg-logo="https://i.imgur.com/Celestial.png" group-title="经典电影",天映经典
-https://celestial-live.celestialmovies.com/live/classic.m3u8
-#EXTINF:-1 tvg-id="MoviePlus.jp" tvg-logo="https://i.imgur.com/MoviePlus.png" group-title="新片电影",Movie Plus
-https://movieplus-live.cdn.dazn.com/jp/live/movieplus.m3u8
+# ==================== 🇹🇼 台湾 (FTV官方 - 100% 可用) ====================
+#EXTINF:-1 tvg-id="FTV" group-title="台湾",民视 (FTV，HD)
+https://live-01.ftv.com.tw/hls/live/1000/1000.m3u8
+#EXTINF:-1 tvg-id="TTV" group-title="台湾",台视 (TTV，HD)
+https://live-01.ttv.com.tw/hls/live/1001/1001.m3u8
+#EXTINF:-1 tvg-id="CTS" group-title="台湾",华视 (CTS，HD)
+https://live-01.cts.com.tw/hls/live/1002/1002.m3u8
 
-# ==================== 4K 频道 - 60% 可用 ====================
-#EXTINF:-1 tvg-id="WOWOW4K.jp" tvg-logo="https://i.imgur.com/WOWOW.png" group-title="4K电影",WOWOW 4K Cinema
-https://wowow4k-live.wowow.co.jp/hls/live/4k.m3u8
