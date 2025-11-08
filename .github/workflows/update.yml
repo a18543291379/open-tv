@@ -1,0 +1,31 @@
+name: 每日自动更新 M3U 直播源
+
+# 触发条件
+on:
+  schedule:
+    - cron: '0 4 * * *'    # 每天 UTC 4:00（北京时间 12:00）
+  workflow_dispatch:       # 支持手动点击运行
+
+jobs:
+  update-m3u:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. 拉取仓库代码
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      # 2. 下载/生成最新 tv.m3u（自行替换）
+      - name: 获取最新直播源
+        run: |
+          curl -L https://example.com/latest.m3u -o tv.m3u
+          # 或运行你的脚本
+          # python3 generate.py
+
+      # 3. 提交更新
+      - name: 提交到 GitHub
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tv.m3u
+          git commit -m "auto update $(date +%F)" || exit 0
+          git push
