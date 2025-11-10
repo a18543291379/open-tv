@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HGDY1" tvg-name="韩国电影1" tvg-logo="https://live.fanmingming.com/tv/HGDY1.png" group-title="电影",韩国电影1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+
+#EXTINF:-1 tvg-id="HGDY2" tvg-name="韩国电影2" tvg-logo="https://live.fanmingming.com/tv/HGDY2.png" group-title="电影",韩国电影2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+
+#EXTINF:-1 tvg-name="MBC" group-title="电影",MBCWORLD
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
