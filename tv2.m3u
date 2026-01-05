@@ -1,27 +1,24 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="HGDY1" tvg-name="韩国电影1" tvg-logo="https://live.fanmingming.com/tv/HGDY1.png" group-title="电影",韩国电影1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-
 #EXTINF:-1 tvg-id="HGDY2" tvg-name="韩国电影2" tvg-logo="https://live.fanmingming.com/tv/HGDY2.png" group-title="电影",韩国电影2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-
-#EXTINF:-1 tvg-name="MBC" group-title="电影",MBCWORLD
-
-#EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="General",TV Chosun
+#EXTINF:-1 tvg-id="HGDY2" tvg-name="韩国电影2" tvg-logo="https://live.fanmingming.com/tv/HGDY2.png" group-title="电影",TV Chosun
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
-#EXTINF:-1 tvg-id="ABN.kr" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="General",ABN
+#EXTINF:-1 tvg-id="HGDY2" tvg-name="韩国电影2" tvg-logo="https://live.fanmingming.com/tv/HGDY2.png" group-title="电影",ABN
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
-#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="General;News",Arirang TV
+#EXTINF:-1 tvg-id="HGDY2" tvg-name="韩国电影2" tvg-logo="https://live.fanmingming.com/tv/HGDY2.png" group-title="电影",Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BTNTV.kr" tvg-logo="https://i.imgur.com/sOoS7RQ.png" group-title="Religious",BTN TV
+#EXTINF:-1 tvg-id="HGDY2" tvg-name="韩国电影2" tvg-logo="https://live.fanmingming.com/tv/HGDY2.png" group-title="电影",BTN TV
 https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
-#EXTINF:-1 tvg-id="GoodTV.kr" tvg-logo="https://i.ibb.co/1v913gn/logo-goodtv.png" group-title="Religious",Good TV
+#EXTINF:-1 tvg-id="HGDY2" tvg-name="韩国电影2" tvg-logo="https://live.fanmingming.com/tv/HGDY2.png" group-title="电影",GOOD TV
 http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="GugakTV.kr" tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="News",Gugak TV
+#EXTINF:-1 tvg-id="HGDY2" tvg-name="韩国电影2" tvg-logo="https://live.fanmingming.com/tv/HGDY2.png" group-title="电影",GUGAK TV
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="HLAMDTV.kr" tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="",HLAM-DTV
+#EXTINF:-1 tvg-id="HGDY2" tvg-name="韩国电影2" tvg-logo="https://live.fanmingming.com/tv/HGDY2.png" group-title="电影",MBC TV
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="HLAODTV.kr" tvg-logo="https://i.imgur.com/uR0gScb.png" group-title="",HLAO-DTV
+#EXTINF:-1 tvg-id="HGDY2" tvg-name="韩国电影2" tvg-logo="https://live.fanmingming.com/tv/HGDY2.png" group-title="电影",MBC TV
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="YonhapNewsTV.kr" tvg-logo="https://i.imgur.com/3aLkU2I.png" group-title="General",Yonhap News TV
+#EXTINF:-1 tvg-id="HGDY2" tvg-name="韩国电影2" tvg-logo="https://live.fanmingming.com/tv/HGDY2.png" group-title="电影",Yonhap News TV
 https://sc2022.stream-link.org/tv2306.php?id=e18
+
