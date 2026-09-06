@@ -26,10 +26,13 @@ https://onaircdn.tvchosun.com/origin1/_definst_/tvchosun_s3/chunklist.m3u8
 https://onair2cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="MBC" tvg-name="MBC" group-title="MBC",MBC
-https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MBC2" tvg-name="MBC (备用)" group-title="MBC",MBC (备用)
+#EXTINF:-1 tvg-id="MBC" tvg-name="MBC" group-title="MBC",MBC
 http://koreatv.dothome.co.kr/mbc.php
+
+#EXTINF:-1 tvg-id="ChannelA" tvg-name="ChannelA" group-title="ChannelA",ChannelA
+https://channelaid3.ichannela.com/atv3/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3ODg3NDU3Mzl9.8Of3soigTc_CAaW_eTWtDRgd5AKB7VWxFU9osPiRGvM
 
 #EXTINF:-1 tvg-id="YTN" tvg-name="YTN" group-title="新闻",YTN
 https://ytnlive.ytn.co.kr/ytn/_definst_/ytnlive_stream_20220426/medialist_9171188557012390620_hls.m3u8
