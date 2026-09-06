@@ -1,18 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="채널A.yt" tvg-name="The Good Life Radio" group-title="新闻", The Good Life Radio
+#EXTINF:-1 tvg-id="채널A.yt" tvg-name="The Good Life Radio" group-title="新闻", 채널A
 https://www.youtube.com/watch?v=gW36lRz0b1o
 
-#EXTINF:-1 tvg-id="뉴스채널 YTN.yt" tvg-name="Deep Blue Summer Mix" group-title="新闻", Deep Blue Summer Mix
+#EXTINF:-1 tvg-id="뉴스채널 YTN.yt" tvg-name="Deep Blue Summer Mix" group-title="新闻", 뉴스채널 YTN
 https://www.youtube.com/watch?v=aZyD6EPl6KU
 
-#EXTINF:-1 tvg-id="24시간 라이브 스트리밍.yt" tvg-name="Deep House Ibiza" group-title="电视剧", Deep House Ibiza
+#EXTINF:-1 tvg-id="24시간 라이브 스트리밍.yt" tvg-name="Deep House Ibiza" group-title="电视剧", 24시간 라이브 스트리밍
 https://www.youtube.com/watch?v=DR9Lzmyftwc
 
-#EXTINF:-1 tvg-id="24시간 무한 KBS방송.yt" tvg-name="Summer Vibes 2024" group-title="娱乐", Summer Vibes 2024
+#EXTINF:-1 tvg-id="24시간 무한 KBS방송.yt" tvg-name="Summer Vibes 2024" group-title="娱乐", 24시간 무한 KBS방송
 https://www.youtube.com/watch?v=P8QordVAUyU
 
-#EXTINF:-1 tvg-id="KBS 24시간 무한 사극 태조왕건 - 대조영 - 불멸의 이순신 - 무인시대 - 용의 눈물 스트리밍.yt" tvg-name="Winter 2023" group-title="Music", Winter 2023
+#EXTINF:-1 tvg-id="KBS 24시간 무한 사극 태조왕건 - 대조영 - 불멸의 이순신 - 무인시대 - 용의 눈물 스트리밍.yt" tvg-name="Winter 2023" group-title="Music", KBS 24시간 무한 사극 태조왕건 - 대조영 - 불멸의 이순신 - 무인시대 - 용의 눈물 스트리밍
 https://www.youtube.com/watch?v=1bROU5AqM8w
 
 #EXTINF:-1 tvg-id="연합뉴스TV (YonhapnewsTV).yt" tvg-name="Dance Party 2023" group-title="Music", Dance Party 2023
