@@ -1,28 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="채널A.yt" tvg-name="채널A" group-title="新闻", 新闻
-https://www.youtube.com/watch?v=gW36lRz0b1o
-
 #EXTINF:-1 tvg-id="뉴스채널 YTN.yt" tvg-name="뉴스채널 YTN" group-title="新闻", 新闻
 https://ytnlive.ytn.co.kr/ytn/_definst_/ytnlive_stream_20220426/medialist_9171188557012390620_hls.m3u8
-
-#EXTINF:-1 tvg-id="MBC뉴스.yt" tvg-name="MBC뉴스" group-title="新闻", 新闻
-https://www.youtube.com/watch?v=q9bM12ucTIY
 
 #EXTINF:-1 tvg-id="TVChosun.yt" tvg-name="TVChosun" group-title="新闻", 新闻
 https://onaircdn.tvchosun.com/origin1/_definst_/tvchosun_s3/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="YTN.yt" tvg-name="YTN" group-title="新闻", 新闻
 https://ytnlive.ytn.co.kr/ytn/_definst_/ytnlive_stream_20220426/medialist_9171188557012390620_hls.m3u8
-
-#EXTINF:-1 tvg-id="TV조선.yt" tvg-name="TV조선" group-title="新闻", 新闻
-https://www.youtube.com/watch?v=UdjC73UiZ7U
-
-#EXTINF:-1 tvg-id="MBC중계방송.yt" tvg-name="MBC중계방송" group-title="新闻", 新闻
-https://www.youtube.com/watch?v=H8QgfogT9V0
-
-#EXTINF:-1 tvg-id="SBS热点直播.yt" tvg-name="SBS热点直播" group-title="新闻", 新闻
-https://www.youtube.com/watch?v=6sNNj_FfndQ
 
 #EXTINF:-1 tvg-id="SBS PLUS" tvg-name="SBS PLUS" group-title="SBS",SBS PLUS
 https://tvlive.sbs.co.kr/sbspluspc/sbsplus1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODg3NzAwNzUsInBhdGgiOiIvc2JzcGx1czEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI4MWZmYTM0YS05NDk3LTRkOTUtYTQxOS05OTJiZjA2NGFkZmQiLCJpYXQiOjE3ODg3NjI4NzV9.T7G9l-pltcdxcehSWExl4ED19j2zPSq3BAbrjQ6292Q
@@ -53,6 +38,21 @@ http://koreatv.dothome.co.kr/mbc.php
 
 #EXTINF:-1 tvg-id="YTN" tvg-name="YTN" group-title="新闻",新闻
 https://ytnlive.ytn.co.kr/ytn/_definst_/ytnlive_stream_20220426/medialist_9171188557012390620_hls.m3u8
+
+#EXTINF:-1 tvg-id="채널A.yt" tvg-name="채널A" group-title="新闻", 新闻
+https://www.youtube.com/watch?v=gW36lRz0b1o
+
+#EXTINF:-1 tvg-id="MBC뉴스.yt" tvg-name="MBC뉴스" group-title="新闻", 新闻
+https://www.youtube.com/watch?v=q9bM12ucTIY
+
+#EXTINF:-1 tvg-id="TV조선.yt" tvg-name="TV조선" group-title="新闻", 新闻
+https://www.youtube.com/watch?v=UdjC73UiZ7U
+
+#EXTINF:-1 tvg-id="MBC중계방송.yt" tvg-name="MBC중계방송" group-title="新闻", 新闻
+https://www.youtube.com/watch?v=H8QgfogT9V0
+
+#EXTINF:-1 tvg-id="SBS热点直播.yt" tvg-name="SBS热点直播" group-title="新闻", 新闻
+https://www.youtube.com/watch?v=6sNNj_FfndQ
 
 #EXTINF:-1 tvg-id="CCTV13.yt" tvg-name="CCTV13" group-title="新闻", 新闻
 http://yftv-wshls.yzbtv.cn/live/4e2f.flv
