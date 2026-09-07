@@ -1,32 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="채널A.yt" tvg-name="채널A" group-title="新闻", 채널A
+#EXTINF:-1 tvg-id="채널A.yt" tvg-name="채널A" group-title="新闻", 新闻
 https://www.youtube.com/watch?v=gW36lRz0b1o
 
-#EXTINF:-1 tvg-id="뉴스채널 YTN.yt" tvg-name="뉴스채널 YTN" group-title="新闻", 뉴스채널 YTN
+#EXTINF:-1 tvg-id="뉴스채널 YTN.yt" tvg-name="뉴스채널 YTN" group-title="新闻", 新闻
 https://ytnlive.ytn.co.kr/ytn/_definst_/ytnlive_stream_20220426/medialist_9171188557012390620_hls.m3u8
 
-#EXTINF:-1 tvg-id="연합뉴스TV (YonhapnewsTV).yt" tvg-name="연합뉴스TV (YonhapnewsTV)" group-title="Music", 연합뉴스TV (YonhapnewsTV)
-https://www.youtube.com/watch?v=YrsAbMCoL3Y
-#EXTINF:-1 tvg-id="[ON AIR] 1위 뉴스채널, 24시간 최신 MBC뉴스.yt" tvg-name="[ON AIR] 1위 뉴스채널, 24시간 최신 MBC뉴스" group-title="Music", [ON AIR] 1위 뉴스채널, 24시간 최신 MBC뉴스
+#EXTINF:-1 tvg-id="MBC뉴스.yt" tvg-name="MBC뉴스" group-title="新闻", 新闻
 https://www.youtube.com/watch?v=q9bM12ucTIY
 
-#EXTINF:-1 tvg-id="실시간 조승우X배두나의 내부 비밀 추적극 〈비밀의 숲〉 정주행 스트리밍.yt" tvg-name="실시간 조승우X배두나의 내부 비밀 추적극 〈비밀의 숲〉 정주행 스트리밍" group-title="Music", 실시간 조승우X배두나의 내부 비밀 추적극 〈비밀의 숲〉 정주행 스트리밍
-https://www.youtube.com/watch?v=5XPwjwz3ZLw
-
-#EXTINF:-1 tvg-id="TVChosun.yt" tvg-name="TVChosun" group-title="Music", KBS 뉴스24
+#EXTINF:-1 tvg-id="TVChosun.yt" tvg-name="TVChosun" group-title="新闻", 新闻
 https://onaircdn.tvchosun.com/origin1/_definst_/tvchosun_s3/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="YTN.yt" tvg-name="YTN" group-title="Music", YTN
+#EXTINF:-1 tvg-id="YTN.yt" tvg-name="YTN" group-title="新闻", 新闻
 https://ytnlive.ytn.co.kr/ytn/_definst_/ytnlive_stream_20220426/medialist_9171188557012390620_hls.m3u8
 
-#EXTINF:-1 tvg-id="[TV조선 뉴스·시사 프로그램｜유튜브 라이브 방송시간].yt" tvg-name="[TV조선 뉴스·시사 프로그램｜유튜브 라이브 방송시간]" group-title="Music", [TV조선 뉴스·시사 프로그램｜유튜브 라이브 방송시간]
+#EXTINF:-1 tvg-id="TV조선.yt" tvg-name="TV조선" group-title="新闻", 新闻
 https://www.youtube.com/watch?v=UdjC73UiZ7U
 
-#EXTINF:-1 tvg-id="MBC중계방송.yt" tvg-name="MBC중계방송" group-title="Music", MBC중계방송
+#EXTINF:-1 tvg-id="MBC중계방송.yt" tvg-name="MBC중계방송" group-title="新闻", 新闻
 https://www.youtube.com/watch?v=H8QgfogT9V0
 
-#EXTINF:-1 tvg-id="SBS热点直播.yt" tvg-name="SBS热点直播" group-title="Music", SBS热点直播
+#EXTINF:-1 tvg-id="SBS热点直播.yt" tvg-name="SBS热点直播" group-title="新闻", 新闻
 https://www.youtube.com/watch?v=6sNNj_FfndQ
 
 #EXTINF:-1 tvg-id="SBS PLUS" tvg-name="SBS PLUS" group-title="SBS",SBS PLUS
@@ -44,52 +39,55 @@ https://tvlive.sbs.co.kr/sbsfil/sbsfil1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV
 #EXTINF:-1 tvg-id="SBSCJB" tvg-name="SBS CJB" group-title="SBS",SBS CJB
 http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 
-#EXTINF:-1 tvg-id="TVChosun" tvg-name="TV Chosun" group-title="TV Chosun",TV Chosun
+#EXTINF:-1 tvg-id="TVChosun" tvg-name="TV Chosun" group-title="新闻",TV Chosun
 https://onaircdn.tvchosun.com/origin1/_definst_/tvchosun_s3/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="TVChosun2" tvg-name="TV Chosun 2" group-title="TV Chosun",TV Chosun 2
+#EXTINF:-1 tvg-id="TVChosun2" tvg-name="TV Chosun 2" group-title="新闻",TV Chosun 2
 https://onair2cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="MBC" tvg-name="MBC" group-title="MBC",MBC
+#EXTINF:-1 tvg-id="MBC" tvg-name="MBC" group-title="新闻",新闻
 https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MBC" tvg-name="MBC" group-title="MBC",MBC
+#EXTINF:-1 tvg-id="MBC" tvg-name="MBC" group-title="新闻",新闻
 http://koreatv.dothome.co.kr/mbc.php
 
-#EXTINF:-1 tvg-id="YTN" tvg-name="YTN" group-title="新闻",YTN
+#EXTINF:-1 tvg-id="YTN" tvg-name="YTN" group-title="新闻",新闻
 https://ytnlive.ytn.co.kr/ytn/_definst_/ytnlive_stream_20220426/medialist_9171188557012390620_hls.m3u8
 
-#EXTINF:-1 tvg-id="CCTV13.yt" tvg-name="CCTV13" group-title="News", KBS드라마
+#EXTINF:-1 tvg-id="CCTV13.yt" tvg-name="CCTV13" group-title="新闻", 新闻
 http://yftv-wshls.yzbtv.cn/live/4e2f.flv
 
-#EXTINF:-1 tvg-id="CCTV6.yt" tvg-name="CCTV6" group-title="Live", 24시간 뉴스테인먼트 채널 YTN2
+#EXTINF:-1 tvg-id="CCTV6.yt" tvg-name="CCTV6" group-title="新闻", 新闻
 http://yftv-wshls.yzbtv.cn/live/11ee8.flv
 
-#EXTINF:-1 tvg-id="스브스 런닝맨 실시간 스트리밍.yt" tvg-name="스브스 런닝맨 실시간 스트리밍" group-title="Music", 스브스 런닝맨 실시간 스트리밍
+#EXTINF:-1 tvg-id="런닝맨 실시간.yt" tvg-name="런닝맨" group-title="电视剧", 电视剧
 https://www.youtube.com/watch?v=d8OvbUAxaec
 
-#EXTINF:-1 tvg-id="스브스 런닝맨 실시간 2.yt" tvg-name="스브스 런닝맨 실시간 스트리밍" group-title="Music", 스브스 런닝맨 실시간 스트리밍
+#EXTINF:-1 tvg-id="런닝맨2.yt" tvg-name="런닝맨2" group-title="电视剧", 电视剧
 https://www.youtube.com/watch?v=iJRgKY95Sy0
 
-#EXTINF:-1 tvg-id="푸른거탑 + 황금거탑 24시간 스트리밍.yt" tvg-name="푸른거탑 + 황금거탑 24시간 스트리밍" group-title="Music", 푸른거탑 + 황금거탑 24시간 스트리밍
+#EXTINF:-1 tvg-id="푸른거탑 + 황금거탑 24시간 스트리밍.yt" tvg-name="푸른거탑 + 황금거탑 24시간 스트리밍" group-title="电视剧", 电视剧
 https://www.youtube.com/watch?v=H3uur6g_9CA
 
-#EXTINF:-1 tvg-id="24시간 라이브 스트리밍.yt" tvg-name="24시간 라이브 스트리밍" group-title="电视剧", 24시간 라이브 스트리밍
+#EXTINF:-1 tvg-id="KBS드라마.yt" tvg-name="KBS드라마" group-title="电视剧", 电视剧
+https://www.youtube.com/watch?v=Cvuip6DvACs
+
+#EXTINF:-1 tvg-id="24시간 라이브 스트리밍.yt" tvg-name="24시간 라이브 스트리밍" group-title="电视剧", 电视剧
 https://www.youtube.com/watch?v=DR9Lzmyftwc
 
-#EXTINF:-1 tvg-id="똑바로 살아라 24시간.yt" tvg-name="똑바로 살아라 24시간" group-title="Music", 똑바로 살아라 24시간
+#EXTINF:-1 tvg-id="똑바로 살아라 24시간.yt" tvg-name="똑바로 살아라 24시간" group-title="电视剧", 电视剧
 https://www.youtube.com/watch?v=DR9Lzmyftwc
 
-#EXTINF:-1 tvg-id="아이유 장만월의 호텔델루나.yt" tvg-name="아이유 장만월의 호텔델루나" group-title="Live", 아이유 장만월의 호텔델루나
+#EXTINF:-1 tvg-id="아이유 장만월의 호텔델루나.yt" tvg-name="아이유 장만월의 호텔델루나" group-title="电视剧", 电视剧
 https://www.youtube.com/watch?v=Wsz_If9wZ7g
 
-#EXTINF:-1 tvg-id="야인시대 라이브.yt" tvg-name="야인시대 라이브" group-title="Live", 야인시대 라이브
+#EXTINF:-1 tvg-id="야인시대 라이브.yt" tvg-name="야인시대 라이브" group-title="电视剧", 电视剧
 https://www.youtube.com/watch?v=l1ivJtlM7gE
 
-#EXTINF:-1 tvg-id="본격 수다 블록버스터 멜로가 체질 24시간 스트리밍.yt" tvg-name="본격 수다 블록버스터 멜로가 체질 24시간 스트리밍" group-title="Live", 본격 수다 블록버스터 멜로가 체질 24시간 스트리밍
+#EXTINF:-1 tvg-id="본격24시간 스트리밍.yt" tvg-name="본격24시간 스트리밍" group-title="电视剧", 电视剧
 https://www.youtube.com/watch?v=LK3CXlk4qVo
 
-#EXTINF:-1 tvg-id="실시간 조승우X배두나의 내부 비밀 추적극 비밀의 숲 .yt" tvg-name="실시간 조승우X배두나의 내부 비밀 추적극 비밀의 숲" group-title="News", 실시간 조승우X배두나의 내부 비밀 추적극 비밀의 숲
+#EXTINF:-1 tvg-id="실시간 비밀의 숲 .yt" tvg-name="실시간 비밀의 숲" group-title="电视剧", 电视剧
 https://www.youtube.com/watch?v=5XPwjwz3ZLw
 
 #EXTINF:-1 tvg-id="Kmovie1" tvg-name="韩国电影1" group-title="电影",韩国电影1
