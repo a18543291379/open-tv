@@ -1,102 +1,102 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="뉴스채널 YTN.yt" tvg-name="뉴스채널 YTN" group-title="新闻", 新闻
+#EXTINF:-1 tvg-name="뉴스채널 YTN" group-title="新闻", 新闻1
 https://ytnlive.ytn.co.kr/ytn/_definst_/ytnlive_stream_20220426/medialist_9171188557012390620_hls.m3u8
 
-#EXTINF:-1 tvg-id="TVChosun.yt" tvg-name="TVChosun" group-title="新闻", 新闻
+#EXTINF:-1 tvg-name="TVChosun" group-title="新闻", 新闻2
 https://onaircdn.tvchosun.com/origin1/_definst_/tvchosun_s3/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="YTN.yt" tvg-name="YTN" group-title="新闻", 新闻
+#EXTINF:-1 tvg-name="YTN" group-title="新闻", 新闻3
 https://ytnlive.ytn.co.kr/ytn/_definst_/ytnlive_stream_20220426/medialist_9171188557012390620_hls.m3u8
 
-#EXTINF:-1 tvg-id="SBS PLUS" tvg-name="SBS PLUS" group-title="SBS",SBS PLUS
+#EXTINF:-1 tvg-name="SBS PLUS" group-title="SBS",SBS PLUS
 https://tvlive.sbs.co.kr/sbspluspc/sbsplus1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODg3NzAwNzUsInBhdGgiOiIvc2JzcGx1czEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI4MWZmYTM0YS05NDk3LTRkOTUtYTQxOS05OTJiZjA2NGFkZmQiLCJpYXQiOjE3ODg3NjI4NzV9.T7G9l-pltcdxcehSWExl4ED19j2zPSq3BAbrjQ6292Q
 
-#EXTINF:-1 tvg-id="SBS KPOP" tvg-name="SBS KPOP" group-title="SBS",SBS KPOP
+#EXTINF:-1 tvg-name="SBS KPOP" group-title="SBS",SBS KPOP
 https://tvlive.sbs.co.kr/sbskpop/sbskpop1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODg3NzAyNTMsInBhdGgiOiIvc2Jza3BvcDEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJjZjNkNTBlMi05NDQzLTRjNjgtYTQzOS0xNDg3ZmZiMmZjZWYiLCJpYXQiOjE3ODg3NjMwNTN9.tyHqFF4dd289hh9TQUaKJEQmxBIygv6IXil0i68NV7g
 
-#EXTINF:-1 tvg-id="SBS FUHE" tvg-name="SBS FUHE" group-title="SBS",SBS FUHE
+#EXTINF:-1 tvg-name="SBS FUHE" group-title="SBS",SBS FUHE
 https://tvlive.sbs.co.kr/sbsetvpc/sbsetv1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODg3NzAxMjYsInBhdGgiOiIvc2JzZXR2MS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjNmNjZiMzk3LTk2NmUtNDYwZC1iMjFjLTIwMGQ4MmJhOGYyNiIsImlhdCI6MTc4ODc2MjkyNn0.msWYilwLPsmBZUneREFRKocFHvh_--OYqH3yeF1ivhs
 
-#EXTINF:-1 tvg-id="SBS LIFE" tvg-name="SBS LIFE" group-title="SBS",SBS LIFE
+#EXTINF:-1 tvg-name="SBS LIFE" group-title="SBS",SBS LIFE
 https://tvlive.sbs.co.kr/sbsfil/sbsfil1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODg3NzAyMDUsInBhdGgiOiIvc2JzZmlsMS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImYwMjQ3MDllLTA4ZTctNDVjOC05MWRmLTFlMmQxYzU5ODgyYiIsImlhdCI6MTc4ODc2MzAwNX0.wofc_eBL3yXPYyH87JDkDriqRAwn_OFpTFpJKacPeg0
 
-#EXTINF:-1 tvg-id="SBSCJB" tvg-name="SBS CJB" group-title="SBS",SBS CJB
+#EXTINF:-1 tvg-name="SBS CJB" group-title="SBS",SBS CJB
 http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 
-#EXTINF:-1 tvg-id="TVChosun" tvg-name="TV Chosun" group-title="新闻",TV Chosun
+#EXTINF:-1 tvg-name="TV Chosun" group-title="新闻",TV Chosun
 https://onaircdn.tvchosun.com/origin1/_definst_/tvchosun_s3/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="TVChosun2" tvg-name="TV Chosun 2" group-title="新闻",TV Chosun 2
+#EXTINF:-1 tvg-name="TV Chosun 2" group-title="新闻",TV Chosun 2
 https://onair2cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="MBC" tvg-name="MBC" group-title="新闻",新闻
+#EXTINF:-1 tvg-name="MBC" group-title="新闻",新闻4
 https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MBC" tvg-name="MBC" group-title="新闻",新闻
+#EXTINF:-1 tvg-name="MBC" group-title="新闻",新闻5
 http://koreatv.dothome.co.kr/mbc.php
 
-#EXTINF:-1 tvg-id="YTN" tvg-name="YTN" group-title="新闻",新闻
+#EXTINF:-1 tvg-name="YTN" group-title="新闻",新闻6
 https://ytnlive.ytn.co.kr/ytn/_definst_/ytnlive_stream_20220426/medialist_9171188557012390620_hls.m3u8
 
-#EXTINF:-1 tvg-id="채널A.yt" tvg-name="채널A" group-title="新闻", 新闻
+#EXTINF:-1 tvg-name="채널A" group-title="新闻", 新闻7
 https://www.youtube.com/watch?v=gW36lRz0b1o
 
-#EXTINF:-1 tvg-id="MBC뉴스.yt" tvg-name="MBC뉴스" group-title="新闻", 新闻
+#EXTINF:-1 tvg-name="MBC뉴스" group-title="新闻", 新闻8
 https://www.youtube.com/watch?v=q9bM12ucTIY
 
-#EXTINF:-1 tvg-id="TV조선.yt" tvg-name="TV조선" group-title="新闻", 新闻
+#EXTINF:-1 tvg-name="TV조선" group-title="新闻", 新闻9
 https://www.youtube.com/watch?v=UdjC73UiZ7U
 
-#EXTINF:-1 tvg-id="MBC중계방송.yt" tvg-name="MBC중계방송" group-title="新闻", 新闻
+#EXTINF:-1 tvg-name="MBC중계방송" group-title="新闻", 新闻10
 https://www.youtube.com/watch?v=H8QgfogT9V0
 
-#EXTINF:-1 tvg-id="SBS热点直播.yt" tvg-name="SBS热点直播" group-title="新闻", 新闻
+#EXTINF:-1 tvg-name="SBS热点直播" group-title="新闻", 新闻11
 https://www.youtube.com/watch?v=6sNNj_FfndQ
 
-#EXTINF:-1 tvg-id="CCTV13.yt" tvg-name="CCTV13" group-title="新闻", 新闻
+#EXTINF:-1 tvg-name="CCTV13" group-title="新闻", 新闻12
 http://yftv-wshls.yzbtv.cn/live/4e2f.flv
 
-#EXTINF:-1 tvg-id="CCTV6.yt" tvg-name="CCTV6" group-title="新闻", 新闻
+#EXTINF:-1 tvg-name="CCTV6" group-title="新闻", 新闻13
 http://yftv-wshls.yzbtv.cn/live/11ee8.flv
 
-#EXTINF:-1 tvg-id="런닝맨 실시간.yt" tvg-name="런닝맨" group-title="电视剧", 电视剧
+#EXTINF:-1 tvg-name="런닝맨" group-title="电视剧", 电视剧1
 https://www.youtube.com/watch?v=d8OvbUAxaec
 
-#EXTINF:-1 tvg-id="런닝맨2.yt" tvg-name="런닝맨2" group-title="电视剧", 电视剧
+#EXTINF:-1 tvg-name="런닝맨2" group-title="电视剧", 电视剧2
 https://www.youtube.com/watch?v=iJRgKY95Sy0
 
-#EXTINF:-1 tvg-id="푸른거탑 + 황금거탑 24시간 스트리밍.yt" tvg-name="푸른거탑 + 황금거탑 24시간 스트리밍" group-title="电视剧", 电视剧
+#EXTINF:-1 tvg-name="푸른거탑 + 황금거탑 24시간 스트리밍" group-title="电视剧", 电视剧3
 https://www.youtube.com/watch?v=H3uur6g_9CA
 
-#EXTINF:-1 tvg-id="KBS드라마.yt" tvg-name="KBS드라마" group-title="电视剧", 电视剧
+#EXTINF:-1 tvg-name="KBS드라마" group-title="电视剧", 电视剧4
 https://www.youtube.com/watch?v=Cvuip6DvACs
 
-#EXTINF:-1 tvg-id="24시간 라이브 스트리밍.yt" tvg-name="24시간 라이브 스트리밍" group-title="电视剧", 电视剧
+#EXTINF:-1 tvg-name="24시간 라이브 스트리밍" group-title="电视剧", 电视剧5
 https://www.youtube.com/watch?v=DR9Lzmyftwc
 
-#EXTINF:-1 tvg-id="똑바로 살아라 24시간.yt" tvg-name="똑바로 살아라 24시간" group-title="电视剧", 电视剧
+#EXTINF:-1 tvg-name="똑바로 살아라 24시간" group-title="电视剧", 电视剧6
 https://www.youtube.com/watch?v=DR9Lzmyftwc
 
-#EXTINF:-1 tvg-id="아이유 장만월의 호텔델루나.yt" tvg-name="아이유 장만월의 호텔델루나" group-title="电视剧", 电视剧
+#EXTINF:-1 tvg-name="아이유 장만월의 호텔델루나" group-title="电视剧", 电视剧7
 https://www.youtube.com/watch?v=Wsz_If9wZ7g
 
-#EXTINF:-1 tvg-id="야인시대 라이브.yt" tvg-name="야인시대 라이브" group-title="电视剧", 电视剧
+#EXTINF:-1 tvg-name="야인시대 라이브" group-title="电视剧", 电视剧8
 https://www.youtube.com/watch?v=l1ivJtlM7gE
 
-#EXTINF:-1 tvg-id="본격24시간 스트리밍.yt" tvg-name="본격24시간 스트리밍" group-title="电视剧", 电视剧
+#EXTINF:-1 tvg-name="본격24시간 스트리밍" group-title="电视剧", 电视剧9
 https://www.youtube.com/watch?v=LK3CXlk4qVo
 
-#EXTINF:-1 tvg-id="실시간 비밀의 숲 .yt" tvg-name="실시간 비밀의 숲" group-title="电视剧", 电视剧
+#EXTINF:-1 tvg-name="실시간 비밀의 숲" group-title="电视剧", 电视剧10
 https://www.youtube.com/watch?v=5XPwjwz3ZLw
 
-#EXTINF:-1 tvg-id="Kmovie1" tvg-name="韩国电影1" group-title="电影",韩国电影1
+#EXTINF:-1 tvg-name="韩国电影1" group-title="电影",韩国电影1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 
-#EXTINF:-1 tvg-id="Kmovie2" tvg-name="韩国电影2" group-title="电影",韩国电影2
+#EXTINF:-1 tvg-name="韩国电影2" group-title="电影",韩国电影2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 
-#EXTINF:-1 tvg-id="서울 실시간 4K 한강 라이브.yt" tvg-name="서울 실시간 4K 한강 라이브" group-title="Live", 서울 실시간 4K 한강 라이브
+#EXTINF:-1 tvg-name="서울 실시간 4K 한강 라이브" group-title="Live", 서울 실시간 4K 한강 라이브
 https://www.youtube.com/watch?v=vk5BHoDxXf0
 
 
