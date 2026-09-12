@@ -30,12 +30,6 @@ https://ytnlive.ytn.co.kr/ytn/_definst_/ytnlive_stream_20220426/medialist_917118
 #EXTINF:-1 tvg-name="채널A" group-title="新闻", 新闻7
 https://www.youtube.com/watch?v=gW36lRz0b1o
 
-#EXTINF:-1 tvg-name="CCTV13" group-title="新闻", 新闻12
-http://yftv-wshls.yzbtv.cn/live/4e2f.flv
-
-#EXTINF:-1 tvg-name="CCTV6" group-title="新闻", 新闻13
-http://yftv-wshls.yzbtv.cn/live/11ee8.flv
-
 #EXTINF:-1 tvg-name="런닝맨" group-title="电视剧", 电视剧1
 https://www.youtube.com/watch?v=d8OvbUAxaec
 
